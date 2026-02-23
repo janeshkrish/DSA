@@ -1,0 +1,44 @@
+name: Auto Update Java README
+
+on:
+  push:
+    paths:
+      - 'java/**/*.java'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Generate README
+        run: |
+          echo "# ☕ Java DSA Progress Tracker" > java/README.md
+          echo "" >> java/README.md
+          echo "## 📊 Progress Table" >> java/README.md
+          echo "" >> java/README.md
+          echo "| S.No | Problem | Performance |" >> java/README.md
+          echo "|------|----------|------------|" >> java/README.md
+
+          count=1
+
+          for file in $(find java -name "*.java" | sort -r)
+          do
+            filename=$(basename "$file")
+            commit_msg=$(git log -1 --pretty=format:"%s" -- "$file")
+
+            echo "| $count | $filename | $commit_msg |" >> java/README.md
+            count=$((count+1))
+          done
+
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add java/README.md
+          git commit -m "Auto update Java Progress Table" || echo "No changes"
+          git push
