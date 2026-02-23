@@ -33,6 +33,7 @@ The repository includes an **automated progress tracking system** that updates p
 
 ## 📂 Repository Structure
 
+```text
 DSA/
 │
 ├── java/
@@ -50,8 +51,7 @@ DSA/
 │
 ├── generate-readme.js
 └── README.md
-
----
+```
 
 ## 📊 Progress Tracking System
 
