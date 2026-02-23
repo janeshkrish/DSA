@@ -32,20 +32,21 @@ The repository includes an **automated progress tracking system** that updates p
 ---
 
 ## 📂 Repository Structure
+
 DSA/
 │
 ├── java/
-│ ├── Arrays/
-│ │ ├── Easy/
-│ │ ├── Medium/
-│ │ └── Hard/
-│ │
-│ ├── String/
-│ │ ├── Easy/
-│ │ ├── Medium/
-│ │ └── Hard/
-│ │
-│ └── README.md (Auto-Generated Progress Tracker)
+│   ├── Arrays/
+│   │   ├── Easy/
+│   │   ├── Medium/
+│   │   └── Hard/
+│   │
+│   ├── String/
+│   │   ├── Easy/
+│   │   ├── Medium/
+│   │   └── Hard/
+│   │
+│   └── README.md  (Auto-Generated Progress Tracker)
 │
 ├── generate-readme.js
 └── README.md
@@ -84,12 +85,12 @@ DSA/
 ## 🔗 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/
+janeshkrishna/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
-> Replace `YOUR_LEETCODE_USERNAME` with your actual username.
 
 ---
 
@@ -120,7 +121,7 @@ If you find this repository helpful, consider giving it a ⭐.
 
 ## 👨‍💻 Author
 
-<h3 align="center">Janesh Krishna</h3>
+<h3 align="center">Janesh Krishna R</h3>
 
 <p align="center">
 Aspiring Software Developer | Full Stack Enthusiast | DSA Learner 🚀
