@@ -12,7 +12,7 @@ This document records my ongoing journey of practicing and mastering Data Struct
 | 3 | 58.LengthofLastWord.java |  |
 | 4 | 28.FindtheIndexoftheFirstOccurrenceinaString.java |  |
 | 5 | 20.ValidParentheses.java |  |
-| 6 | 70.ClimbingStairs.java |  |
+| 6 | 70.ClimbingStairs.java | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
 | 7 | 349.IntersectionofTwoArrays.java |  |
 | 8 | 217.ContainsDuplicate.java |  |
 | 9 | 14.LongestCommonPrefix.java | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
