@@ -1,5 +1,8 @@
 name: Auto Update Java README
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
@@ -10,35 +13,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Generate README
+      - name: Generate README File
         run: |
           echo "# ☕ Java DSA Progress Tracker" > java/README.md
+          echo "" >> java/README.md
+          echo "This file tracks my progress of solving Data Structures and Algorithms problems using Java." >> java/README.md
           echo "" >> java/README.md
           echo "## 📊 Progress Table" >> java/README.md
           echo "" >> java/README.md
           echo "| S.No | Problem | Performance |" >> java/README.md
-          echo "|------|----------|------------|" >> java/README.md
+          echo "|------|----------|-------------|" >> java/README.md
 
           count=1
 
+          # Loop through all Java files inside java folder (including subfolders)
           for file in $(find java -name "*.java" | sort -r)
           do
             filename=$(basename "$file")
+
+            # Get latest commit message of that file
             commit_msg=$(git log -1 --pretty=format:"%s" -- "$file")
 
             echo "| $count | $filename | $commit_msg |" >> java/README.md
+
             count=$((count+1))
           done
 
-      - name: Commit Changes
+      - name: Commit and Push Changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
           git add java/README.md
-          git commit -m "Auto update Java Progress Table" || echo "No changes"
+
+          git diff --cached --quiet || git commit -m "Auto update Java Progress Table"
+
           git push
