@@ -3,10 +3,31 @@
 
 This document records my ongoing journey of practicing and mastering Data Structures and Algorithms problems using Java.
 
-## 📊 Progress Table
+---
 
-| S.No | Problem | Performance |
-|------|----------|-------------|
-| 1 | 151.ReverseWordsinJava.java |  |
-| 2 | 70.ClimbingStairs.java | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
-| 3 | 14.LongestCommonPrefix.java | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
+## 📊 DSA Overview
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Total_Solved-3-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Easy-2-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-1-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
+
+</p>
+
+### 📈 Progress
+
+```
+Progress: ░░░░░░░░░░ 3%
+```
+
+---
+
+## 📋 Progress Table
+
+| S.No | Problem | Difficulty | Performance |
+|------|----------|------------|-------------|
+| 1 | 151.ReverseWordsinJava | Medium | Runtime : 4 ms – Beats : 93.64% | Memory : 44.22 MB – Beats : 80.54% with the time complexity – O(n) and space complexity – O(n) |
+| 2 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
+| 3 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
