@@ -30,6 +30,6 @@ Progress: ░░░░░░░░░░ 5%
 |------|----------|------------|-------------|
 | 1 | 151.ReverseWordsinJava | Medium | Runtime : 4 ms – Beats : 93.64% | Memory : 44.22 MB – Beats : 80.54% with the time complexity – O(n) and space complexity – O(n) |
 | 2 | 28.FindtheIndexoftheFirstOccurrenceinaString | Easy | Runtime : 1 ms – Beats : 46.13% | Memory : 43.28 MB – Beats : 34.61% with the time complexity – O(n · m) and space complexity – O(1) |
-| 3 | 20.ValidParentheses | Easy | — |
+| 3 | 20.ValidParentheses | Easy | Runtime : 4 ms – Beats : 42.24% | Memory : 43.12 MB – Beats : 86.51% with the time complexity – O(n) and space complexity – O(n) |
 | 4 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
 | 5 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
