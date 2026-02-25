@@ -9,8 +9,8 @@ This document records my ongoing journey of practicing and mastering Data Struct
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Total_Solved-5-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Easy-4-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total_Solved-6-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Easy-5-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Medium-1-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
 
@@ -19,7 +19,7 @@ This document records my ongoing journey of practicing and mastering Data Struct
 ### 📈 Progress
 
 ```
-Progress: ░░░░░░░░░░ 5%
+Progress: ░░░░░░░░░░ 6%
 ```
 
 ---
@@ -33,3 +33,4 @@ Progress: ░░░░░░░░░░ 5%
 | 3 | 20.ValidParentheses | Easy | Runtime : 4 ms – Beats : 42.24% | Memory : 43.12 MB – Beats : 86.51% with the time complexity – O(n) and space complexity – O(n) |
 | 4 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
 | 5 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
+| 6 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | — |
