@@ -33,4 +33,4 @@ Progress: ░░░░░░░░░░ 6%
 | 3 | 20.ValidParentheses | Easy | Runtime : 4 ms – Beats : 42.24% | Memory : 43.12 MB – Beats : 86.51% with the time complexity – O(n) and space complexity – O(n) |
 | 4 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
 | 5 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
-| 6 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | — |
+| 6 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50% | Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
