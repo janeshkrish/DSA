@@ -35,4 +35,4 @@ Progress: ░░░░░░░░░░ 8%
 | 5 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
 | 6 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
 | 7 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50% | Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
-| 8 | 121.BestTimetoBuyandSellStock | Easy | — |
+| 8 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22% | Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
