@@ -73,6 +73,9 @@ DSA/
   <img src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeshkrish&theme=tokyonight&cache_seconds=0" height="165"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janeshkrish&theme=tokyo-night&hide_border=true"/>
+</p>
 
 🎯 Learning Strategy
 
