@@ -28,7 +28,7 @@ Progress: ░░░░░░░░░░ 9%
 
 | S.No | Problem | Difficulty | Performance |
 |------|----------|------------|-------------|
-| 1 | 5.LongestPalindromicSubstring | Medium | — |
+| 1 | 5.LongestPalindromicSubstring | Medium | Runtime : 8 ms – Beats : 97.95% | Memory : 44.72 MB – Beats : 46.50% with the time complexity – O(n) and space complexity – O(n) |
 | 2 | 151.ReverseWordsinJava | Medium | Runtime : 4 ms – Beats : 93.64% | Memory : 44.22 MB – Beats : 80.54% with the time complexity – O(n) and space complexity – O(n) |
 | 3 | 28.FindtheIndexoftheFirstOccurrenceinaString | Easy | Runtime : 1 ms – Beats : 46.13% | Memory : 43.28 MB – Beats : 34.61% with the time complexity – O(n · m) and space complexity – O(1) |
 | 4 | 20.ValidParentheses | Easy | Runtime : 4 ms – Beats : 42.24% | Memory : 43.12 MB – Beats : 86.51% with the time complexity – O(n) and space complexity – O(n) |
