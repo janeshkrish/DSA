@@ -69,7 +69,10 @@ DSA/
 🔗 LeetCode Profile
 <p align="center"> <a href="https://leetcode.com/janeshkrishna/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /> </a> </p>
 📈 GitHub Contribution Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeshkrish&theme=tokyonight" height="160"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janeshkrish&theme=tokyonight&cache_seconds=0" height="165"/>
+</p>
 
 🎯 Learning Strategy
 
@@ -102,4 +105,4 @@ Greedy Algorithms
 If you find this repository helpful, consider giving it a ⭐.
 
 👨‍💻 Author
-<h3 align="center">Janesh Krishna R</h3> <p align="center"> Aspiring Software Developer | AI Enthusiast | Cloud Learner 🚀 </p> ```
+<h3 align="center">Janesh Krishna R</h3> <p align="center"> Aspiring Software Developer | AI Enthusiast | Cloud Learner 🚀 </p> 
