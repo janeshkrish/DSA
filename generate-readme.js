@@ -3,7 +3,7 @@ const path = require("path");
 const { execSync } = require("child_process");
 
 const javaDir = path.join(__dirname, "java");
-
+//add progress
 // Recursively get all .java files
 function getJavaFiles(dir) {
   let results = [];
