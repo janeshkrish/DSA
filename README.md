@@ -7,9 +7,9 @@
 <!-- Dynamic Repo Stats -->
 <p align="center">
   <img src="https://img.shields.io/github/directory-file-count/janeshkrish/DSA/java?label=Problems%20Solved&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/github/search/janeshkrish/DSA?query=Easy&label=Easy&style=for-the-badge&color=green" />
-  <img src="https://img.shields.io/github/search/janeshkrish/DSA?query=Medium&label=Medium&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/search/janeshkrish/DSA?query=Hard&label=Hard&style=for-the-badge&color=red" />
+  <img src="https://img.shields.io/badge/Easy-Problems-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-Problems-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hard-Problems-red?style=for-the-badge" />
 </p>
 
 <!-- GitHub Repo Stats -->
@@ -61,7 +61,11 @@ DSA/
 └── README.md
 ```
 📊 GitHub Contribution Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" height="165"/> <img src="https://streak-stats.demolab.com/?user=janeshkrish&theme=tokyonight&cache_seconds=0" height="165"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/apiusername=janeshkrish&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=janeshkrish&theme=tokyonight&hide_border=true" /> 
+</p>
+
 🔗 LeetCode Profile
 <p align="center"> <a href="https://leetcode.com/janeshkrishna/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /> </a> </p>
 
