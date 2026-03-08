@@ -9,8 +9,8 @@ This document records my ongoing journey of practicing and mastering Data Struct
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Total_Solved-15-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Easy-9-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total_Solved-16-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Easy-10-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Medium-6-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
 
@@ -19,7 +19,7 @@ This document records my ongoing journey of practicing and mastering Data Struct
 ### 📈 Progress
 
 ```
-Progress: █░░░░░░░░░ 15%
+Progress: █░░░░░░░░░ 16%
 ```
 
 ---
@@ -43,3 +43,4 @@ Progress: █░░░░░░░░░ 15%
 | 13 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60% | Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
 | 14 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50% | Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
 | 15 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22% | Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
+| 16 | 1.TwoSum | Easy | — |
