@@ -43,4 +43,4 @@ Progress: █░░░░░░░░░ 16%
 | 13 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60% | Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
 | 14 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50% | Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
 | 15 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22% | Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
-| 16 | 1.TwoSum | Easy | — |
+| 16 | 1.TwoSum | Easy | Runtime : 2 ms – Beats : 99.22% | Memory : 47.16 MB – Beats : 55.67% with the time complexity – O(n) and space complexity – O(n) |
