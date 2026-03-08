@@ -67,8 +67,7 @@ DSA/
 ```
 📊 GitHub Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/apiusername=janeshkrish&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=0" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=janeshkrish&theme=tokyonight&hide_border=true" /> 
+  <img src="https://streak-stats.demolab.com?user=janeshkrish&theme=tokyonight&hide_border=true&mode=daily&utc_offset=5.5&cache_seconds=1800&date_format=M%20j%5B,%20Y%5D" alt="Janesh Krishna GitHub streak stats" />
 </p>
 
 🔗 LeetCode Profile
