@@ -7,11 +7,11 @@
 <!-- Dynamic Repo Stats -->
 <p align="center">
 
-<img src="https://img.shields.io/badge/Problems%20Solved-13-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problems%20Solved-15-brightgreen?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Easy-9-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Medium-4-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-6-yellow?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
 
