@@ -39,7 +39,7 @@ Progress: █░░░░░░░░░ 18%
 | 9 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42% | Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
 | 10 | 11.ContainerWithMostWater | Medium | Runtime : 5 ms – Beats : 81.91% | Memory : 77.41 MB – Beats : 46.95% with the time complexity – O(n) and space complexity – O(1) |
 | 11 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
-| 12 | 169.MajorityElement | Easy | — |
+| 12 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56% | Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
 | 13 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
 | 14 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50% | Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
 | 15 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60% | Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
