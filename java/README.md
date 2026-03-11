@@ -41,7 +41,7 @@ Progress: ██░░░░░░░░ 21%
 | 11 | 977.SquaresofaSortedArrays | Easy | Runtime : 1 ms – Beats : 99.89% | Memory : 46.96 MB – Beats : 96.83% with the time complexity – O(n) and space complexity – O(n) |
 | 12 | 88.MergeSortedArray | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 44.02 MB – Beats : 24.17% with the time complexity – O(m + n) and space complexity – O(1) |
 | 13 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
-| 14 | 26.RemoveDuplicatesfromSortedArray | Easy | — |
+| 14 | 26.RemoveDuplicatesfromSortedArray | Easy | Runtime : 1 ms – Beats : 79.19% | Memory : 46.91 MB – Beats : 20.89% with the time complexity – O(n) and space complexity – O(1) |
 | 15 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56% | Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
 | 16 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
 | 17 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50% | Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
