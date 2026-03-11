@@ -9,8 +9,8 @@ This document records my ongoing journey of practicing and mastering Data Struct
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Total_Solved-19-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Easy-12-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total_Solved-20-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Easy-13-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Medium-6-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hard-1-red?style=for-the-badge"/>
 
@@ -19,7 +19,7 @@ This document records my ongoing journey of practicing and mastering Data Struct
 ### 📈 Progress
 
 ```
-Progress: █░░░░░░░░░ 19%
+Progress: ██░░░░░░░░ 20%
 ```
 
 ---
@@ -39,11 +39,12 @@ Progress: █░░░░░░░░░ 19%
 | 9 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42% | Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
 | 10 | 11.ContainerWithMostWater | Medium | Runtime : 5 ms – Beats : 81.91% | Memory : 77.41 MB – Beats : 46.95% with the time complexity – O(n) and space complexity – O(1) |
 | 11 | 977.SquaresofaSortedArrays | Easy | Runtime : 1 ms – Beats : 99.89% | Memory : 46.96 MB – Beats : 96.83% with the time complexity – O(n) and space complexity – O(n) |
-| 12 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
-| 13 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56% | Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
-| 14 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
-| 15 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50% | Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
-| 16 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60% | Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
-| 17 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50% | Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
-| 18 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22% | Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
-| 19 | 1.TwoSum | Easy | Runtime : 2 ms – Beats : 99.22% | Memory : 47.16 MB – Beats : 55.67% with the time complexity – O(n) and space complexity – O(n) |
+| 12 | 88.MergeSortedArray | Easy | — |
+| 13 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
+| 14 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56% | Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
+| 15 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45% | Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
+| 16 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50% | Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
+| 17 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60% | Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
+| 18 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50% | Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
+| 19 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22% | Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
+| 20 | 1.TwoSum | Easy | Runtime : 2 ms – Beats : 99.22% | Memory : 47.16 MB – Beats : 55.67% with the time complexity – O(n) and space complexity – O(n) |
