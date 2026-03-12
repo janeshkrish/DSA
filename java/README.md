@@ -37,7 +37,7 @@ Progress: ██░░░░░░░░ 22%
 | 7 | 20.ValidParentheses | Easy | Runtime : 4 ms – Beats : 42.24% | Memory : 43.12 MB – Beats : 86.51% with the time complexity – O(n) and space complexity – O(n) |
 | 8 | 13.RomantoInteger | Easy | Runtime : 5 ms – Beats : 35.20% | Memory : 46.54 MB – Beats : 63.75% with the time complexity – O(n) and space complexity – O(1) |
 | 9 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42% | Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
-| 10 | 15.3Sum | Medium | — |
+| 10 | 15.3Sum | Medium | Runtime : 36 ms – Beats : 31.25% | Memory : 59.17 MB – Beats : 73.09% with the time complexity – O(n²) and space complexity – O(n) |
 | 11 | 11.ContainerWithMostWater | Medium | Runtime : 5 ms – Beats : 81.91% | Memory : 77.41 MB – Beats : 46.95% with the time complexity – O(n) and space complexity – O(1) |
 | 12 | 977.SquaresofaSortedArrays | Easy | Runtime : 1 ms – Beats : 99.89% | Memory : 46.96 MB – Beats : 96.83% with the time complexity – O(n) and space complexity – O(n) |
 | 13 | 88.MergeSortedArray | Easy | Runtime : 0 ms – Beats : 100.00% | Memory : 44.02 MB – Beats : 24.17% with the time complexity – O(m + n) and space complexity – O(1) |
