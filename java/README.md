@@ -32,7 +32,7 @@ Progress: ██░░░░░░░░ 26%
 | 2 | 5.LongestPalindromicSubstring | Medium | Runtime : 8 ms – Beats : 97.95%<br>Memory : 44.72 MB – Beats : 46.50% with the time complexity – O(n) and space complexity – O(n) |
 | 3 | 17.LetterCombinationsofaPhoneNumber | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.52 MB – Beats : 64.32% with the time complexity – O(4ⁿ · n) and space complexity – O(4ⁿ · n) |
 | 4 | 151.ReverseWordsinJava | Medium | Runtime : 4 ms – Beats : 93.64%<br>Memory : 44.22 MB – Beats : 80.54% with the time complexity – O(n) and space complexity – O(n) |
-| 5 | 32.LongestValidParentheses | Hard | — |
+| 5 | 32.LongestValidParentheses | Hard | Runtime : 5 ms – Beats : 81.25%<br>Memory : 46.89 MB – Beats : 10.70% with the time complexity – O(n) and space complexity – O(n) |
 | 6 | 10.RegularExpressionMatching | Hard | Runtime : 1 ms – Beats : 99.84%<br>Memory : 43.52 MB – Beats : 66.49% with the time complexity – O(m × n) and space complexity – O(n) |
 | 7 | 28.FindtheIndexoftheFirstOccurrenceinaString | Easy | Runtime : 1 ms – Beats : 46.13%<br>Memory : 43.28 MB – Beats : 34.61% with the time complexity – O(n · m) and space complexity – O(1) |
 | 8 | 20.ValidParentheses | Easy | Runtime : 4 ms – Beats : 42.24%<br>Memory : 43.12 MB – Beats : 86.51% with the time complexity – O(n) and space complexity – O(n) |
