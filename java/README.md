@@ -39,7 +39,7 @@ Progress: ██░░░░░░░░ 28%
 | 9 | 13.RomantoInteger | Easy | Runtime : 5 ms – Beats : 35.20%<br>Memory : 46.54 MB – Beats : 63.75% with the time complexity – O(n) and space complexity – O(1) |
 | 10 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42%<br>Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
 | 11 | 29.DivideTwoIntegers | Medium | Runtime : 1 ms – Beats : 91.18%<br>Memory : 42.43 MB – Beats : 91.08% with the time complexity – O(log n) and space complexity – O(1) |
-| 12 | 24.SwapNodesinPairs | Medium | — |
+| 12 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
 | 13 | 15.3Sum | Medium | Runtime : 36 ms – Beats : 31.25%<br>Memory : 59.17 MB – Beats : 73.09% with the time complexity – O(n²) and space complexity – O(n) |
 | 14 | 11.ContainerWithMostWater | Medium | Runtime : 5 ms – Beats : 81.91%<br>Memory : 77.41 MB – Beats : 46.95% with the time complexity – O(n) and space complexity – O(1) |
 | 15 | 105.ConstructBinaryTreefromPreorderandInorderTraversal | Medium | Runtime : 1 ms – Beats : 96.66%<br>Memory : 46.54 MB – Beats : 34.60% with the time complexity – O(n) and space complexity – O(n) |
