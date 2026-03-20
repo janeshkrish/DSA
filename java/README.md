@@ -38,9 +38,9 @@ Progress: ███░░░░░░░ 35%
 | 8 | 28.FindtheIndexoftheFirstOccurrenceinaString | Easy | Runtime : 1 ms – Beats : 46.13%<br>Memory : 43.28 MB – Beats : 34.61% with the time complexity – O(n · m) and space complexity – O(1) |
 | 9 | 20.ValidParentheses | Easy | Runtime : 4 ms – Beats : 42.24%<br>Memory : 43.12 MB – Beats : 86.51% with the time complexity – O(n) and space complexity – O(n) |
 | 10 | 13.RomantoInteger | Easy | Runtime : 5 ms – Beats : 35.20%<br>Memory : 46.54 MB – Beats : 63.75% with the time complexity – O(n) and space complexity – O(1) |
-| 11 | 83.RemoveDuplicatesfromSortedList | Easy | — |
-| 12 | 21.MergeTwoSortedLists | Easy | — |
-| 13 | 206.ReverseLinkedList | Easy | — |
+| 11 | 83.RemoveDuplicatesfromSortedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 45.59 MB – Beats : 45.89% with the time complexity – O(n) and space complexity – O(1) |
+| 12 | 21.MergeTwoSortedLists | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.20 MB – Beats : 72.06% with the time complexity – O(m + n) and space complexity – O(1) |
+| 13 | 206.ReverseLinkedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 43.48% with the time complexity – O(n) and space complexity – O(1) |
 | 14 | 160. IntersectionofTwoLinkedLists | Easy | Runtime : 1 ms – Beats : 99.92%<br>Memory : 52.84 MB – Beats : 57.33% with the time complexity – O(n + m) and space complexity – O(1) |
 | 15 | 144.BinaryTreePreorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 43.28 MB – Beats : 45.50% with Time Complexity – O(n) and Space Complexity – O(1) |
 | 16 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42%<br>Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
