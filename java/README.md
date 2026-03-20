@@ -52,7 +52,7 @@ Progress: ███░░░░░░░ 33%
 | 22 | 35.SearchInsertPosition | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.52 MB – Beats : 90.79% with the time complexity – O(log n) and space complexity – O(1) |
 | 23 | 26.RemoveDuplicatesfromSortedArray | Easy | Runtime : 1 ms – Beats : 79.19%<br>Memory : 46.91 MB – Beats : 20.89% with the time complexity – O(n) and space complexity – O(1) |
 | 24 | 21.MergeTwoSortedLists | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.20 MB – Beats : 72.06% with the time complexity – O(m + n) and space complexity – O(1) |
-| 25 | 206.ReverseLinkedList | Easy | — |
+| 25 | 206.ReverseLinkedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 43.48% with the time complexity – O(n) and space complexity – O(1) |
 | 26 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56%<br>Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
 | 27 | 1588.SumofAllOddLengthSubarrays | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.31 MB – Beats : 17.77% with the time complexity – O(n) and space complexity – O(1) |
 | 28 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45%<br>Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
