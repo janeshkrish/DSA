@@ -6,12 +6,12 @@
 
 <!-- AUTO-GENERATED-STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-38-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Solved-39-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Easy-23-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-13-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-14-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hard-2-red?style=for-the-badge" />
 </p>
-//line
+
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/janeshkrish/DSA?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/janeshkrish/DSA/main?style=for-the-badge&label=Last%20Commit" />
