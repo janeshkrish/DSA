@@ -4,10 +4,10 @@
   <b>Mastering problem solving, writing optimized code, and tracking progress automatically.</b>
 </p>
 
-<!-- AUTO-GENERATED-STATS:START ....... -->
+<!-- AUTO-GENERATED-STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-40-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Easy-23-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Solved-41-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Easy-24-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Medium-15-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hard-2-red?style=for-the-badge" />
 </p>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/last-commit/janeshkrish/DSA/main?style=for-the-badge&label=Last%20Commit" />
   <img src="https://img.shields.io/github/languages/top/janeshkrish/DSA?style=for-the-badge&label=Top%20Language" />
 </p>
-<!-- AUTO-GENERATED-STATS:END. -->
+<!-- AUTO-GENERATED-STATS:END -->
 
 ---
 
