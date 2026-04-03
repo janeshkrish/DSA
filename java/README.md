@@ -39,7 +39,7 @@ Progress: ████░░░░░░ 47%
 | 9 | 28.FindtheIndexoftheFirstOccurrenceinaString | Easy | Runtime : 1 ms – Beats : 46.13%<br>Memory : 43.28 MB – Beats : 34.61% with the time complexity – O(n · m) and space complexity – O(1) |
 | 10 | 20.ValidParentheses | Easy | Runtime : 4 ms – Beats : 42.24%<br>Memory : 43.12 MB – Beats : 86.51% with the time complexity – O(n) and space complexity – O(n) |
 | 11 | 13.RomantoInteger | Easy | Runtime : 5 ms – Beats : 35.20%<br>Memory : 46.54 MB – Beats : 63.75% with the time complexity – O(n) and space complexity – O(1) |
-| 12 | 69.Sqrt(x) | Easy | — |
+| 12 | 69.Sqrt(x) | Easy | Runtime : 1 ms – Beats : 97.60%<br>Memory : 42.44 MB – Beats : 84.38% with the time complexity – O(log x) and space complexity – O(1) |
 | 13 | 61.RotateList | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 57.03% with the time complexity – O(n) and space complexity – O(1) |
 | 14 | 148.SortList | Medium | Runtime : 13 ms – Beats : 26.47%<br>Memory : 61.47 MB – Beats : 25.81% with the time complexity – O(n log n) and space complexity – O(1) |
 | 15 | 83.RemoveDuplicatesfromSortedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 45.59 MB – Beats : 45.89% with the time complexity – O(n) and space complexity – O(1) |
