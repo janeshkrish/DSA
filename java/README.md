@@ -49,7 +49,7 @@ Progress: ████░░░░░░ 48%
 | 19 | 98.ValidateBinarySearchTree | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.90 MB – Beats : 93.73% with the time complexity – O(n) and space complexity – O(h) |
 | 20 | 94.BinaryTreeInorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.13 MB – Beats : 61.85% with the time complexity – O(n) and space complexity – O(n) |
 | 21 | 144.BinaryTreePreorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 43.28 MB – Beats : 45.50% with Time Complexity – O(n) and Space Complexity – O(1) |
-| 22 | 75.SortColors | Medium | — |
+| 22 | 75.SortColors | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.79 MB – Beats : 16.88% with the time complexity – O(n) and space complexity – O(1) |
 | 23 | 622.DesignCircularQueue | Medium | Runtime : 5 ms – Beats : 36.25%<br>Memory : 46.43 MB – Beats : 82.05% with the time complexity – O(1) and space complexity – O(n) |
 | 24 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42%<br>Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
 | 25 | 46.Permutations | Medium | Runtime : 1 ms – Beats : 84.83%<br>Memory : 45.43 MB – Beats : 72.34% with the time complexity – O(n! × n) and space complexity – O(n! × n) |
