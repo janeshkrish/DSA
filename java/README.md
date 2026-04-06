@@ -56,7 +56,7 @@ Progress: █████░░░░░ 50%
 | 26 | 46.Permutations | Medium | Runtime : 1 ms – Beats : 84.83%<br>Memory : 45.43 MB – Beats : 72.34% with the time complexity – O(n! × n) and space complexity – O(n! × n) |
 | 27 | 39.CombinationSum | Medium | Runtime : 2 ms – Beats : 95.60%<br>Memory : 45.63 MB – Beats : 75.74% with the time complexity – O(2^T) and space complexity – O(2^T) |
 | 28 | 36.ValidSudoku | Medium | Runtime : 12 ms – Beats : 19.16%<br>Memory : 52.72 MB – Beats : 7.50% with the time complexity – O(1) and space complexity – O(1) |
-| 29 | 33.SearchinRotatedSortedArray | Medium | — |
+| 29 | 33.SearchinRotatedSortedArray | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.94 MB – Beats : 35.17% with the time complexity – O(log n) and space complexity – O(1) |
 | 30 | 29.DivideTwoIntegers | Medium | Runtime : 1 ms – Beats : 91.18%<br>Memory : 42.43 MB – Beats : 91.08% with the time complexity – O(log n) and space complexity – O(1) |
 | 31 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
 | 32 | 18. 4Sum | Medium | Runtime : 5 ms – Beats : 99.76%<br>Memory : 45.14 MB – Beats : 99.34% with the time complexity – O(n³) and space complexity – O(n) |
