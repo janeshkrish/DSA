@@ -46,6 +46,18 @@ DSA/
 |   |   |-- Easy/
 |   |   |-- Medium/
 |   |   `-- Hard/
+|   |-- Binarytree/
+|   |   |-- Easy/
+|   |   |-- Medium/
+|   |   `-- Hard/
+|   |-- LinkedList/
+|   |   |-- Easy/
+|   |   |-- Medium/
+|   |   `-- Hard/
+|   |-- Math/
+|   |   |-- Easy/
+|   |   |-- Medium/
+|   |   `-- Hard/
 |   |-- String/
 |   |   |-- Easy/
 |   |   |-- Medium/
