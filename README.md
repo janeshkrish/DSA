@@ -16,9 +16,9 @@
   <img src="https://img.shields.io/github/last-commit/janeshkrish/DSA/main?style=for-the-badge&label=Last%20Commit" />
   <img src="https://img.shields.io/github/languages/top/janeshkrish/DSA?style=for-the-badge&label=Top%20Language" />
 </p>
-<!-- AUTO-GENERATED-STATS:END -->
----
 
+---
+<!-- AUTO-GENERATED-STATS:END -->
 ## About This Repository
 
 This repository documents my journey of mastering **Data Structures and Algorithms** using **Java**.
