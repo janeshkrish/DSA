@@ -48,7 +48,7 @@ Progress: ██████░░░░ 61%
 | 18 | 206.ReverseLinkedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 43.48% with the time complexity – O(n) and space complexity – O(1) |
 | 19 | 160. IntersectionofTwoLinkedLists | Easy | Runtime : 1 ms – Beats : 99.92%<br>Memory : 52.84 MB – Beats : 57.33% with the time complexity – O(n + m) and space complexity – O(1) |
 | 20 | 98.ValidateBinarySearchTree | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.90 MB – Beats : 93.73% with the time complexity – O(n) and space complexity – O(h) |
-| 21 | 109.ConvertSortedListtoBinarySearchTree | Medium | — |
+| 21 | 109.ConvertSortedListtoBinarySearchTree | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(log n) |
 | 22 | 106.ConstructBinaryTreefromInorderandPostordertraversal | Medium | Runtime : 1 ms – Beats 98.19% with the time complexity – O(n) and space complexity – O(n) |
 | 23 | 102.BinaryTreeLevelOrderTraversal | Medium | Runtime : 2 ms – Beats 94.84% with the time complexity – O(n) and space complexity – O(n) |
 | 24 | 94.BinaryTreeInorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.13 MB – Beats : 61.85% with the time complexity – O(n) and space complexity – O(n) |
