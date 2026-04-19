@@ -71,7 +71,7 @@ Progress: ██████░░░░ 62%
 | 41 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
 | 42 | 18. 4Sum | Medium | Runtime : 5 ms – Beats : 99.76%<br>Memory : 45.14 MB – Beats : 99.34% with the time complexity – O(n³) and space complexity – O(n) |
 | 43 | 15.3Sum | Medium | Runtime : 36 ms – Beats : 31.25%<br>Memory : 59.17 MB – Beats : 73.09% with the time complexity – O(n²) and space complexity – O(n) |
-| 44 | 122.BestTimetoBuyandSellStockII | Medium | — |
+| 44 | 122.BestTimetoBuyandSellStockII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 45 | 11.ContainerWithMostWater | Medium | Runtime : 5 ms – Beats : 81.91%<br>Memory : 77.41 MB – Beats : 46.95% with the time complexity – O(n) and space complexity – O(1) |
 | 46 | 105.ConstructBinaryTreefromPreorderandInorderTraversal | Medium | Runtime : 1 ms – Beats : 96.66%<br>Memory : 46.54 MB – Beats : 34.60% with the time complexity – O(n) and space complexity – O(n) |
 | 47 | 41.FirstMissingPositive | Hard | Runtime : 1 ms – Beats : 100.00%<br>Memory : 71.19 MB – Beats : 78.43% with the time complexity – O(n) and space complexity – O(1) |
