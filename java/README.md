@@ -30,7 +30,7 @@ Progress: ██████░░░░ 65%
 |------|----------|------------|-------------|
 | 1 | 8.StringtoInteger(atoi) | Medium | Runtime : 1 ms – Beats : 99.79%<br>Memory : 43.85 MB – Beats : 60.05% with the time complexity – O(n) and space complexity – O(1) |
 | 2 | 5.LongestPalindromicSubstring | Medium | Runtime : 8 ms – Beats : 97.95%<br>Memory : 44.72 MB – Beats : 46.50% with the time complexity – O(n) and space complexity – O(n) |
-| 3 | 2452.WordsWithinTwoEditsofDictionary | Medium | — |
+| 3 | 2452.WordsWithinTwoEditsofDictionary | Medium | Runtime : 2 ms – Beats 97.79% with the time complexity – O(Q × D × L) and space complexity – O(1) |
 | 4 | 22.GenerateParentheses | Medium | Runtime : 2 ms – Beats : 71.03%<br>Memory : 44.88 MB – Beats : 40.08% with the time complexity – O(4ⁿ) and space complexity – O(4ⁿ) |
 | 5 | 17.LetterCombinationsofaPhoneNumber | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.52 MB – Beats : 64.32% with the time complexity – O(4ⁿ · n) and space complexity – O(4ⁿ · n) |
 | 6 | 151.ReverseWordsinJava | Medium | Runtime : 4 ms – Beats : 93.64%<br>Memory : 44.22 MB – Beats : 80.54% with the time complexity – O(n) and space complexity – O(n) |
