@@ -63,7 +63,7 @@ Progress: ██████░░░░ 67%
 | 33 | 77.Combinations | Medium | Runtime : 18 ms – Beats : 82.75%<br>Memory : 98.20 MB – Beats : 36.12% with the time complexity – O(C(n, k) × k) and space complexity – O(C(n, k) × k) |
 | 34 | 75.SortColors | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.79 MB – Beats : 16.88% with the time complexity – O(n) and space complexity – O(1) |
 | 35 | 622.DesignCircularQueue | Medium | Runtime : 5 ms – Beats : 36.25%<br>Memory : 46.43 MB – Beats : 82.05% with the time complexity – O(1) and space complexity – O(n) |
-| 36 | 57.InsertInterval | Medium | — |
+| 36 | 57.InsertInterval | Medium | Runtime : 1 ms – Beats 97.88% with the time complexity – O(n) and space complexity – O(n) |
 | 37 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42%<br>Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
 | 38 | 48.RotateImage | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n²) and space complexity – O(1) |
 | 39 | 46.Permutations | Medium | Runtime : 1 ms – Beats : 84.83%<br>Memory : 45.43 MB – Beats : 72.34% with the time complexity – O(n! × n) and space complexity – O(n! × n) |
