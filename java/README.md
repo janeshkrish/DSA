@@ -70,7 +70,7 @@ Progress: ██████░░░░ 69%
 | 40 | 40.CombinationSumII | Medium | Runtime : 6 ms – Beats 72.64% with the time complexity – O(2^n) and space complexity – O(n) |
 | 41 | 39.CombinationSum | Medium | Runtime : 2 ms – Beats : 95.60%<br>Memory : 45.63 MB – Beats : 75.74% with the time complexity – O(2^T) and space complexity – O(2^T) |
 | 42 | 36.ValidSudoku | Medium | Runtime : 12 ms – Beats : 19.16%<br>Memory : 52.72 MB – Beats : 7.50% with the time complexity – O(1) and space complexity – O(1) |
-| 43 | 34.FindFirstandLastPositionofElementinSortedArray | Medium | — |
+| 43 | 34.FindFirstandLastPositionofElementinSortedArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
 | 44 | 33.SearchinRotatedSortedArray | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.94 MB – Beats : 35.17% with the time complexity – O(log n) and space complexity – O(1) |
 | 45 | 29.DivideTwoIntegers | Medium | Runtime : 1 ms – Beats : 91.18%<br>Memory : 42.43 MB – Beats : 91.08% with the time complexity – O(log n) and space complexity – O(1) |
 | 46 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
