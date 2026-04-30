@@ -5,7 +5,7 @@ class Solution {
         
         Integer[] temp = new Integer[arr.length];
         
-        // Convert int[] to Integer[]
+        // Convert int[] to Integer[] to perform this sort integer by the number
         for(int i = 0; i < arr.length; i++) {
             temp[i] = arr[i];
         }
