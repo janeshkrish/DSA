@@ -69,7 +69,7 @@ Progress: ███████░░░ 75%
 | 39 | 57.InsertInterval | Medium | Runtime : 1 ms – Beats 97.88% with the time complexity – O(n) and space complexity – O(n) |
 | 40 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42%<br>Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
 | 41 | 48.RotateImage | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n²) and space complexity – O(1) |
-| 42 | 47.PermutationsII | Medium | — |
+| 42 | 47.PermutationsII | Medium | Runtime : 3 ms – Beats 89.10% with the time complexity – O(n × n!) and space complexity – O(n) |
 | 43 | 46.Permutations | Medium | Runtime : 1 ms – Beats : 84.83%<br>Memory : 45.43 MB – Beats : 72.34% with the time complexity – O(n! × n) and space complexity – O(n! × n) |
 | 44 | 45.JumpGameII | Medium | Runtime : 1 ms – Beats 99.55% with the time complexity – O(n) and space complexity – O(1) |
 | 45 | 40.CombinationSumII | Medium | Runtime : 6 ms – Beats 72.64% with the time complexity – O(2^n) and space complexity – O(n) |
