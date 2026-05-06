@@ -68,7 +68,7 @@ Progress: ███████░░░ 77%
 | 38 | 622.DesignCircularQueue | Medium | Runtime : 5 ms – Beats : 36.25%<br>Memory : 46.43 MB – Beats : 82.05% with the time complexity – O(1) and space complexity – O(n) |
 | 39 | 57.InsertInterval | Medium | Runtime : 1 ms – Beats 97.88% with the time complexity – O(n) and space complexity – O(n) |
 | 40 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42%<br>Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
-| 41 | 53.MaximumSubarray | Medium | — |
+| 41 | 53.MaximumSubarray | Medium | Runtime : 185 ms – Beats 1.93% with the time complexity – O(n) and space complexity – O(1) |
 | 42 | 50.Pow(x, n) | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
 | 43 | 48.RotateImage | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n²) and space complexity – O(1) |
 | 44 | 47.PermutationsII | Medium | Runtime : 3 ms – Beats 89.10% with the time complexity – O(n × n!) and space complexity – O(n) |
