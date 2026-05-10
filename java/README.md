@@ -84,7 +84,7 @@ Progress: ████████░░ 81%
 | 54 | 34.FindFirstandLastPositionofElementinSortedArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
 | 55 | 33.SearchinRotatedSortedArray | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.94 MB – Beats : 35.17% with the time complexity – O(log n) and space complexity – O(1) |
 | 56 | 29.DivideTwoIntegers | Medium | Runtime : 1 ms – Beats : 91.18%<br>Memory : 42.43 MB – Beats : 91.08% with the time complexity – O(log n) and space complexity – O(1) |
-| 57 | 2770.MaximumNumberofJumpstoReachtheLastIndex | Medium | — |
+| 57 | 2770.MaximumNumberofJumpstoReachtheLastIndex | Medium | Runtime : 13 ms – Beats 92.26% with the time complexity – O(n²) and space complexity – O(n) |
 | 58 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
 | 59 | 18. 4Sum | Medium | Runtime : 5 ms – Beats : 99.76%<br>Memory : 45.14 MB – Beats : 99.34% with the time complexity – O(n³) and space complexity – O(n) |
 | 60 | 1722.MinimizeHammingDistanceAfterSwapOperations | Medium | Runtime : 45 ms – Beats 81.72% with the time complexity – O(n α(n)) and space complexity – O(n) |
