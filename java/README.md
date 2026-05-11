@@ -36,7 +36,7 @@ Progress: ████████░░ 82%
 | 6 | 17.LetterCombinationsofaPhoneNumber | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.52 MB – Beats : 64.32% with the time complexity – O(4ⁿ · n) and space complexity – O(4ⁿ · n) |
 | 7 | 151.ReverseWordsinJava | Medium | Runtime : 4 ms – Beats : 93.64%<br>Memory : 44.22 MB – Beats : 80.54% with the time complexity – O(n) and space complexity – O(n) |
 | 8 | 32.LongestValidParentheses | Hard | Runtime : 5 ms – Beats : 81.25%<br>Memory : 46.89 MB – Beats : 10.70% with the time complexity – O(n) and space complexity – O(n) |
-| 9 | 30.SubstringwithConcatenationofAllWords | Hard | — |
+| 9 | 30.SubstringwithConcatenationofAllWords | Hard | Runtime : 13 ms – Beats 22.08% with the time complexity – O(n × k) and space complexity – O(m) |
 | 10 | 10.RegularExpressionMatching | Hard | Runtime : 1 ms – Beats : 99.84%<br>Memory : 43.52 MB – Beats : 66.49% with the time complexity – O(m × n) and space complexity – O(n) |
 | 11 | 796.RotateString | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
 | 12 | 387.FirstUniqueCharacterinaString | Easy | Runtime : 10 ms – Beats : 50.34%<br>Memory : 47.28 MB – Beats : 20.86% with the time complexity – O(n) and space complexity – O(1) |
