@@ -29,7 +29,7 @@ Progress: ████████░░ 84%
 | S.No | Problem | Difficulty | Performance |
 |------|----------|------------|-------------|
 | 1 | 8.StringtoInteger(atoi) | Medium | Runtime : 1 ms – Beats : 99.79%<br>Memory : 43.85 MB – Beats : 60.05% with the time complexity – O(n) and space complexity – O(1) |
-| 2 | 72.EditDistance | Medium | — |
+| 2 | 72.EditDistance | Medium | Runtime : 5 ms – Beats : 68.80%<br>Memory : 47.19 MB – Beats : 51.68% with the time complexity – O(m × n) and space complexity – O(m × n) |
 | 3 | 5.LongestPalindromicSubstring | Medium | Runtime : 8 ms – Beats : 97.95%<br>Memory : 44.72 MB – Beats : 46.50% with the time complexity – O(n) and space complexity – O(n) |
 | 4 | 43.MultiplyStrings | Medium | Runtime : 3 ms – Beats 83.45% with the time complexity – O(m × n) and space complexity – O(m + n) |
 | 5 | 2452.WordsWithinTwoEditsofDictionary | Medium | Runtime : 2 ms – Beats 97.79% with the time complexity – O(Q × D × L) and space complexity – O(1) |
