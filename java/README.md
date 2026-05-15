@@ -92,7 +92,7 @@ Progress: ████████░░ 86%
 | 62 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
 | 63 | 18. 4Sum | Medium | Runtime : 5 ms – Beats : 99.76%<br>Memory : 45.14 MB – Beats : 99.34% with the time complexity – O(n³) and space complexity – O(n) |
 | 64 | 1722.MinimizeHammingDistanceAfterSwapOperations | Medium | Runtime : 45 ms – Beats 81.72% with the time complexity – O(n α(n)) and space complexity – O(n) |
-| 65 | 153.FindMinimuminRotatedSortedArray | Medium | — |
+| 65 | 153.FindMinimuminRotatedSortedArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
 | 66 | 15.3Sum | Medium | Runtime : 36 ms – Beats : 31.25%<br>Memory : 59.17 MB – Beats : 73.09% with the time complexity – O(n²) and space complexity – O(n) |
 | 67 | 122.BestTimetoBuyandSellStockII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 68 | 11.ContainerWithMostWater | Medium | Runtime : 5 ms – Beats : 81.91%<br>Memory : 77.41 MB – Beats : 46.95% with the time complexity – O(n) and space complexity – O(1) |
