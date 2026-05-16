@@ -68,7 +68,7 @@ Progress: ████████░░ 87%
 | 38 | 101.SymmetricTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
 | 39 | 100.SameTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
 | 40 | 788.RotatedDigits | Medium | Runtime : 3 ms – Beats 91.63% with the time complexity – O(n log n) and space complexity – O(1) |
-| 41 | 78.Subsets | Medium | — |
+| 41 | 78.Subsets | Medium | Runtime : 1 ms – Beats 88.98% with the time complexity – O(n × 2ⁿ) and space complexity – O(n × 2ⁿ) |
 | 42 | 77.Combinations | Medium | Runtime : 18 ms – Beats : 82.75%<br>Memory : 98.20 MB – Beats : 36.12% with the time complexity – O(C(n, k) × k) and space complexity – O(C(n, k) × k) |
 | 43 | 75.SortColors | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.79 MB – Beats : 16.88% with the time complexity – O(n) and space complexity – O(1) |
 | 44 | 64.MinimumPathSum | Medium | Runtime : 4 ms – Beats 62.23% with the time complexity – O(m × n) and space complexity – O(m × n) |
