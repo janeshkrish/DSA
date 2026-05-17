@@ -71,7 +71,7 @@ Progress: ████████░░ 88%
 | 41 | 78.Subsets | Medium | Runtime : 1 ms – Beats 88.98% with the time complexity – O(n × 2ⁿ) and space complexity – O(n × 2ⁿ) |
 | 42 | 77.Combinations | Medium | Runtime : 18 ms – Beats : 82.75%<br>Memory : 98.20 MB – Beats : 36.12% with the time complexity – O(C(n, k) × k) and space complexity – O(C(n, k) × k) |
 | 43 | 75.SortColors | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.79 MB – Beats : 16.88% with the time complexity – O(n) and space complexity – O(1) |
-| 44 | 74.Searcha2DMatrix | Medium | — |
+| 44 | 74.Searcha2DMatrix | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log(m × n)) and space complexity – O(1) |
 | 45 | 64.MinimumPathSum | Medium | Runtime : 4 ms – Beats 62.23% with the time complexity – O(m × n) and space complexity – O(m × n) |
 | 46 | 622.DesignCircularQueue | Medium | Runtime : 5 ms – Beats : 36.25%<br>Memory : 46.43 MB – Beats : 82.05% with the time complexity – O(1) and space complexity – O(n) |
 | 47 | 57.InsertInterval | Medium | Runtime : 1 ms – Beats 97.88% with the time complexity – O(n) and space complexity – O(n) |
