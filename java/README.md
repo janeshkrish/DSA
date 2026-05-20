@@ -48,7 +48,7 @@ Progress: █████████░ 91%
 | 18 | 63. UniquePathsII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(m × n) and space complexity – O(m × n) |
 | 19 | 62.UniquePaths | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(m × n) and space complexity – O(m × n) |
 | 20 | 69.Sqrt(x) | Easy | Runtime : 1 ms – Beats : 97.60%<br>Memory : 42.44 MB – Beats : 84.38% with the time complexity – O(log x) and space complexity – O(1) |
-| 21 | 92.ReverseLinkedListII | Medium | — |
+| 21 | 92.ReverseLinkedListII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 22 | 61.RotateList | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 57.03% with the time complexity – O(n) and space complexity – O(1) |
 | 23 | 19.RemoveNthNodeFromEndofList | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 24 | 148.SortList | Medium | Runtime : 13 ms – Beats : 26.47%<br>Memory : 61.47 MB – Beats : 25.81% with the time complexity – O(n log n) and space complexity – O(1) |
