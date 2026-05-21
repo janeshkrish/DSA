@@ -91,7 +91,7 @@ Progress: █████████░ 92%
 | 61 | 36.ValidSudoku | Medium | Runtime : 12 ms – Beats : 19.16%<br>Memory : 52.72 MB – Beats : 7.50% with the time complexity – O(1) and space complexity – O(1) |
 | 62 | 34.FindFirstandLastPositionofElementinSortedArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
 | 63 | 33.SearchinRotatedSortedArray | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.94 MB – Beats : 35.17% with the time complexity – O(log n) and space complexity – O(1) |
-| 64 | 3043.FindtheLengthoftheLongestCommonPrefix | Medium | — |
+| 64 | 3043.FindtheLengthoftheLongestCommonPrefix | Medium | Runtime : 197 ms – Beats 20.59% with the time complexity – O(n × d² + m × d²) and space complexity – O(n × d) |
 | 65 | 29.DivideTwoIntegers | Medium | Runtime : 1 ms – Beats : 91.18%<br>Memory : 42.43 MB – Beats : 91.08% with the time complexity – O(log n) and space complexity – O(1) |
 | 66 | 2770.MaximumNumberofJumpstoReachtheLastIndex | Medium | Runtime : 13 ms – Beats 92.26% with the time complexity – O(n²) and space complexity – O(n) |
 | 67 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
