@@ -94,7 +94,7 @@ Progress: █████████░ 93%
 | 64 | 3043.FindtheLengthoftheLongestCommonPrefix | Medium | Runtime : 197 ms – Beats 20.59% with the time complexity – O(n × d² + m × d²) and space complexity – O(n × d) |
 | 65 | 29.DivideTwoIntegers | Medium | Runtime : 1 ms – Beats : 91.18%<br>Memory : 42.43 MB – Beats : 91.08% with the time complexity – O(log n) and space complexity – O(1) |
 | 66 | 2770.MaximumNumberofJumpstoReachtheLastIndex | Medium | Runtime : 13 ms – Beats 92.26% with the time complexity – O(n²) and space complexity – O(n) |
-| 67 | 2657.FindthePrefixCommonArrayofTwoArrays | Medium | — |
+| 67 | 2657.FindthePrefixCommonArrayofTwoArrays | Medium | Runtime : 5 ms – Beats 38.40% with the time complexity – O(n) and space complexity – O(n) |
 | 68 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
 | 69 | 18. 4Sum | Medium | Runtime : 5 ms – Beats : 99.76%<br>Memory : 45.14 MB – Beats : 99.34% with the time complexity – O(n³) and space complexity – O(n) |
 | 70 | 1722.MinimizeHammingDistanceAfterSwapOperations | Medium | Runtime : 45 ms – Beats 81.72% with the time complexity – O(n α(n)) and space complexity – O(n) |
