@@ -80,7 +80,7 @@ DSA/
   </a>
 </p>
 
-## Learning Strategy
+## Learning Strategy.
 
 - Solve problems topic-wise.
 - Optimize brute-force approaches.
