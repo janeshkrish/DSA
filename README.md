@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/languages/top/janeshkrish/DSA?style=for-the-badge&label=Top%20Language" />
 </p>
 <!-- AUTO-GENERATED-STATS:END -->
-## About This Repository
+## About This Repository:
 
 This repository documents my journey of mastering **Data Structures and Algorithms** using **Java**.
 
@@ -80,7 +80,7 @@ DSA/
   </a>
 </p>
 
-## Learning Strategy
+## Learning Strategy.
 
 - Solve problems topic-wise.
 - Optimize brute-force approaches.
