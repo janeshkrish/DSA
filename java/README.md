@@ -60,7 +60,7 @@ Progress: █████████░ 99%
 | 30 | 99.RecoverBinarySearchTree | Medium | Runtime : 1 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(h) |
 | 31 | 98.ValidateBinarySearchTree | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.90 MB – Beats : 93.73% with the time complexity – O(n) and space complexity – O(h) |
 | 32 | 199.BinaryTreeRightSideView | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
-| 33 | 114.FlattenBinaryTreetoLinkedList | Medium | — |
+| 33 | 114.FlattenBinaryTreetoLinkedList | Medium | Runtime : 1 ms – Beats 18.14% with the time complexity – O(n) and space complexity – O(n) |
 | 34 | 109.ConvertSortedListtoBinarySearchTree | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(log n) |
 | 35 | 106.ConstructBinaryTreefromInorderandPostordertraversal | Medium | Runtime : 1 ms – Beats 98.19% with the time complexity – O(n) and space complexity – O(n) |
 | 36 | 102.BinaryTreeLevelOrderTraversal | Medium | Runtime : 2 ms – Beats 94.84% with the time complexity – O(n) and space complexity – O(n) |
