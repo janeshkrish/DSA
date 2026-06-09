@@ -65,7 +65,7 @@ Progress: ██████████ 101%
 | 35 | 109.ConvertSortedListtoBinarySearchTree | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(log n) |
 | 36 | 106.ConstructBinaryTreefromInorderandPostordertraversal | Medium | Runtime : 1 ms – Beats 98.19% with the time complexity – O(n) and space complexity – O(n) |
 | 37 | 102.BinaryTreeLevelOrderTraversal | Medium | Runtime : 2 ms – Beats 94.84% with the time complexity – O(n) and space complexity – O(n) |
-| 38 | 1766.TreeofCoprimes | Hard | — |
+| 38 | 1766.TreeofCoprimes | Hard | Runtime : 194 ms – Beats 20.37% with the time complexity – O(n × 50 × log 50) and space complexity – O(n + 50) |
 | 39 | 94.BinaryTreeInorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.13 MB – Beats : 61.85% with the time complexity – O(n) and space complexity – O(n) |
 | 40 | 144.BinaryTreePreorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 43.28 MB – Beats : 45.50% with Time Complexity – O(n) and Space Complexity – O(1) |
 | 41 | 111.MinimumDepthofBinaryTree | Easy | Runtime : 2 ms – Beats 94.84% with the time complexity – O(n) and space complexity – O(n) |
