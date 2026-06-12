@@ -117,7 +117,7 @@ Progress: ██████████ 103%
 | 87 | 88.MergeSortedArray | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.02 MB – Beats : 24.17% with the time complexity – O(m + n) and space complexity – O(1) |
 | 88 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
 | 89 | 67.AddBinary | Easy | Runtime : 1 ms – Beats : 99.94%<br>Memory : 43.42 MB – Beats : 84.32% with the time complexity – O(max(n, m)) and space complexity – O(max(n, m)) |
-| 90 | 643.MaximumAverageSubarrayI | Easy | — |
+| 90 | 643.MaximumAverageSubarrayI | Easy | Runtime : 5 ms – Beats 35.91% with the time complexity – O(n) and space complexity – O(1) |
 | 91 | 496.NextGreaterElementI | Easy | Runtime : 4 ms – Beats : 73.27%<br>Memory : 45.49 MB – Beats : 30.65% with the time complexity – O(n) and space complexity – O(n) |
 | 92 | 35.SearchInsertPosition | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.52 MB – Beats : 90.79% with the time complexity – O(log n) and space complexity – O(1) |
 | 93 | 26.RemoveDuplicatesfromSortedArray | Easy | Runtime : 1 ms – Beats : 79.19%<br>Memory : 46.91 MB – Beats : 20.89% with the time complexity – O(n) and space complexity – O(1) |
