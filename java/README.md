@@ -52,7 +52,7 @@ Progress: ██████████ 105%
 | 22 | 92.ReverseLinkedListII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 23 | 61.RotateList | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 57.03% with the time complexity – O(n) and space complexity – O(1) |
 | 24 | 328.OddEvenLinkedList | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 25 | 2095.DeletetheMiddleNodeofaLinkedList | Medium | — |
+| 25 | 2095.DeletetheMiddleNodeofaLinkedList | Medium | Runtime : 3 ms – Beats 99.96% with the time complexity – O(n) and space complexity – O(1) |
 | 26 | 19.RemoveNthNodeFromEndofList | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 27 | 148.SortList | Medium | Runtime : 13 ms – Beats : 26.47%<br>Memory : 61.47 MB – Beats : 25.81% with the time complexity – O(n log n) and space complexity – O(1) |
 | 28 | 83.RemoveDuplicatesfromSortedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 45.59 MB – Beats : 45.89% with the time complexity – O(n) and space complexity – O(1) |
