@@ -49,7 +49,7 @@ Progress: ██████████ 108%
 | 19 | 125.ValidPalindrome | Easy | Runtime : 2 ms – Beats 99.17% with the time complexity – O(n) and space complexity – O(1) |
 | 20 | 63. UniquePathsII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(m × n) and space complexity – O(m × n) |
 | 21 | 62.UniquePaths | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(m × n) and space complexity – O(m × n) |
-| 22 | 1344.Angle etweenHandsofaClock | Medium | — |
+| 22 | 1344.Angle etweenHandsofaClock | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(1) and space complexity – O(1) |
 | 23 | 69.Sqrt(x) | Easy | Runtime : 1 ms – Beats : 97.60%<br>Memory : 42.44 MB – Beats : 84.38% with the time complexity – O(log x) and space complexity – O(1) |
 | 24 | 92.ReverseLinkedListII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 25 | 61.RotateList | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 57.03% with the time complexity – O(n) and space complexity – O(1) |
