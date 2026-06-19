@@ -5,8 +5,8 @@
 </p>
 <!-- AUTO-GENERATED-STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-108-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Easy-37-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Solved-109-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Easy-38-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Medium-62-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hard-9-red?style=for-the-badge" />
 </p>
