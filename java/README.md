@@ -115,7 +115,7 @@ Progress: ██████████ 100%
 | 85 | 105.ConstructBinaryTreefromPreorderandInorderTraversal | Medium | Runtime : 1 ms – Beats : 96.66%<br>Memory : 46.54 MB – Beats : 34.60% with the time complexity – O(n) and space complexity – O(n) |
 | 86 | 42.TrappingRainWater | Hard | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 87 | 41.FirstMissingPositive | Hard | Runtime : 1 ms – Beats : 100.00%<br>Memory : 71.19 MB – Beats : 78.43% with the time complexity – O(n) and space complexity – O(1) |
-| 88 | 1840.MaximumBuildingHeight | Hard | — |
+| 88 | 1840.MaximumBuildingHeight | Hard | Runtime : 62 ms – Beats 17.65% with the time complexity – O(m log m) and space complexity – O(m) |
 | 89 | 1340.JumpGameV | Hard | Runtime : 9 ms – Beats 97.43% with the time complexity – O(n × d) and space complexity – O(n) |
 | 90 | 123.BestTimetoBuyandSellStock III | Hard | Runtime : 1 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 91 | 977.SquaresofaSortedArrays | Easy | Runtime : 1 ms – Beats : 99.89%<br>Memory : 46.96 MB – Beats : 96.83% with the time complexity – O(n) and space complexity – O(n) |
