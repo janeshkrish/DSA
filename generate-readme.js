@@ -114,10 +114,10 @@ for (const file of files) {
 }
 
 const totalSolved = easyCount + mediumCount + hardCount;
-const progressPercent = Math.floor((totalSolved / TARGET_SOLVED) * 100);
+const progressPercent = Math.min(100, Math.floor((totalSolved / TARGET_SOLVED) * 100));
 const barLength = 10;
-const filled = Math.floor((progressPercent / 100) * barLength);
-const empty = barLength - filled;
+const filled = Math.min(barLength, Math.max(0, Math.floor((progressPercent / 100) * barLength)));
+const empty = Math.max(0, barLength - filled);
 const progressBar = "█".repeat(filled) + "░".repeat(empty);
 
 let readmeContent = `
