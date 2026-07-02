@@ -52,7 +52,7 @@ Progress: ██████████ 100%
 | 22 | 1344.Angle etweenHandsofaClock | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(1) and space complexity – O(1) |
 | 23 | 69.Sqrt(x) | Easy | Runtime : 1 ms – Beats : 97.60%<br>Memory : 42.44 MB – Beats : 84.38% with the time complexity – O(log x) and space complexity – O(1) |
 | 24 | 92.ReverseLinkedListII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 25 | 707.DesignLinkedList | Medium | — |
+| 25 | 707.DesignLinkedList | Medium | Runtime : 10 ms – Beats 50.87% with the time complexity – O(n) and space complexity – O(n) |
 | 26 | 61.RotateList | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 57.03% with the time complexity – O(n) and space complexity – O(1) |
 | 27 | 328.OddEvenLinkedList | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 28 | 2095.DeletetheMiddleNodeofaLinkedList | Medium | Runtime : 3 ms – Beats 99.96% with the time complexity – O(n) and space complexity – O(1) |
