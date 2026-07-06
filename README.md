@@ -5,9 +5,9 @@
 </p>
 <!-- AUTO-GENERATED-STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-114-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Solved-115-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Easy-38-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-66-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-67-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hard-10-red?style=for-the-badge" />
 </p>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/languages/top/janeshkrish/DSA?style=for-the-badge&label=Top%20Language" />
 </p>
 <!-- AUTO-GENERATED-STATS:END -->
-## About This Repository:
+## About This Repository
 
 This repository documents my journey of mastering **Data Structures and Algorithms** using **Java**.
 
