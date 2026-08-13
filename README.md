@@ -5,10 +5,10 @@
 </p>
 <!-- AUTO-GENERATED-STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-138-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Solved-139-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Easy-47-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Medium-78-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hard-13-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hard-14-red?style=for-the-badge" />
 </p>
 
 <p align="center">
