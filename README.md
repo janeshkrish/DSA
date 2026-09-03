@@ -5,9 +5,9 @@
 </p>
 <!-- AUTO-GENERATED-STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Solved-147-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Solved-148-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Easy-49-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-83-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-84-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hard-15-red?style=for-the-badge" />
 </p>
 
