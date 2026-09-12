@@ -9,10 +9,10 @@ This document records my ongoing journey of practicing and mastering Data Struct
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Total_Solved-155-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total_Solved-156-00F7FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Easy-52-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Medium-87-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hard-16-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hard-17-red?style=for-the-badge"/>
 
 </p>
 
@@ -151,35 +151,36 @@ Progress: ██████████ 100%
 | 121 | 105.ConstructBinaryTreefromPreorderandInorderTraversal | Medium | Runtime : 1 ms – Beats : 96.66%<br>Memory : 46.54 MB – Beats : 34.60% with the time complexity – O(n) and space complexity – O(n) |
 | 122 | 42.TrappingRainWater | Hard | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
 | 123 | 41.FirstMissingPositive | Hard | Runtime : 1 ms – Beats : 100.00%<br>Memory : 71.19 MB – Beats : 78.43% with the time complexity – O(n) and space complexity – O(1) |
-| 124 | 1840.MaximumBuildingHeight | Hard | Runtime : 62 ms – Beats 17.65% with the time complexity – O(m log m) and space complexity – O(m) |
-| 125 | 1340.JumpGameV | Hard | Runtime : 9 ms – Beats 97.43% with the time complexity – O(n × d) and space complexity – O(n) |
-| 126 | 123.BestTimetoBuyandSellStock III | Hard | Runtime : 1 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 127 | 977.SquaresofaSortedArrays | Easy | Runtime : 1 ms – Beats : 99.89%<br>Memory : 46.96 MB – Beats : 96.83% with the time complexity – O(n) and space complexity – O(n) |
-| 128 | 88.MergeSortedArray | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.02 MB – Beats : 24.17% with the time complexity – O(m + n) and space complexity – O(1) |
-| 129 | 867.TransposeMatrix | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 46.77 MB – Beats : 48.44% with the time complexity – O(?) and space complexity – O(?) |
-| 130 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
-| 131 | 67.AddBinary | Easy | Runtime : 1 ms – Beats : 99.94%<br>Memory : 43.42 MB – Beats : 84.32% with the time complexity – O(max(n, m)) and space complexity – O(max(n, m)) |
-| 132 | 643.MaximumAverageSubarrayI | Easy | Runtime : 5 ms – Beats 35.91% with the time complexity – O(n) and space complexity – O(1) |
-| 133 | 566.ReshapetheMatrix | Easy | Runtime : 0 ms – Beats : 100% Memory : 47.19 MB – Beats : 90.95% with the time complexity – O(m × n) and space complexity – O(m × n) |
-| 134 | 496.NextGreaterElementI | Easy | Runtime : 4 ms – Beats : 73.27%<br>Memory : 45.49 MB – Beats : 30.65% with the time complexity – O(n) and space complexity – O(n) |
-| 135 | 3903.SmallestStableIndexI | Easy | Runtime : 1 ms – Beats : 99.79% Memory : 46.23 MB – Beats : 70.85% with the time complexity – O(n) and space complexity – O(1) |
-| 136 | 3838.WeightedWordMapping | Easy | Runtime : 3 ms – Beats 33.62% with the time complexity – O(T) and space complexity – O(1) |
-| 137 | 3731.FindMissingElements | Easy | Runtime : 7 ms – Beats : 22.50% Memory : 47.39 MB – Beats : 11.76% with the time complexity – O(n) and space complexity – O(n) |
-| 138 | 35.SearchInsertPosition | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.52 MB – Beats : 90.79% with the time complexity – O(log n) and space complexity – O(1) |
-| 139 | 3483.Unique3DigitEvenNumbers | Easy | Runtime : 5 ms – Beats : 82.80% Memory : 46.34 MB – Beats : 46.93% with the time complexity – O(n³) and space complexity – O(M) |
-| 140 | 3069.DistributeElementsIntoTwoArraysI | Easy | Runtime : 1 ms – Beats : 98.09% Memory : 46.8 MB – Beats : 23.92% with the time complexity – O(n) and space complexity – O(n) |
-| 141 | 2996.SmallestMissingIntegerGreaterThanSequentialPrefixSum | Easy | Runtime : 1 ms – Beats : 93.72% Memory : 43.82 MB – Beats : 88.14% with the time complexity – O(n) and space complexity – O(n) |
-| 142 | 26.RemoveDuplicatesfromSortedArray | Easy | Runtime : 1 ms – Beats : 79.19%<br>Memory : 46.91 MB – Beats : 20.89% with the time complexity – O(n) and space complexity – O(1) |
-| 143 | 2540.MinimumCommonValue | Easy | Runtime : 2 ms – Beats 88.98% with the time complexity – O(n + m) and space complexity – O(1) |
-| 144 | 1752.CheckifArrayIsSortedandRotated | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 145 | 1732.FindtheHighestAltitude | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 146 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56%<br>Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
-| 147 | 1588.SumofAllOddLengthSubarrays | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.31 MB – Beats : 17.77% with the time complexity – O(n) and space complexity – O(1) |
-| 148 | 1572.MatrixDiagonalSum | Easy | Runtime : 1 ms – Beats : 35.43% Memory : 46.54 MB – Beats : 14.20% with the time complexity – O(n × m) and space complexity – O(1) |
-| 149 | 1464.MaximumProductofTwoElementsinanArray | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 44.65 MB – Beats : 46.74% with the time complexity – O(n) and space complexity – O(1) |
-| 150 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45%<br>Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
-| 151 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50%<br>Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
-| 152 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60%<br>Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
-| 153 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50%<br>Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
-| 154 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22%<br>Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
-| 155 | 1.TwoSum | Easy | Runtime : 2 ms – Beats : 99.22%<br>Memory : 47.16 MB – Beats : 55.67% with the time complexity – O(n) and space complexity – O(n) |
+| 124 | 3414.MaximumScoreofNonoverlappingIntervals | Hard | Runtime : 110 ms – Beats : 87.04% Memory : 162.44 MB – Beats : 92.59% with the time complexity – O(nlogn) and space complexity – O(n) |
+| 125 | 1840.MaximumBuildingHeight | Hard | Runtime : 62 ms – Beats 17.65% with the time complexity – O(m log m) and space complexity – O(m) |
+| 126 | 1340.JumpGameV | Hard | Runtime : 9 ms – Beats 97.43% with the time complexity – O(n × d) and space complexity – O(n) |
+| 127 | 123.BestTimetoBuyandSellStock III | Hard | Runtime : 1 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 128 | 977.SquaresofaSortedArrays | Easy | Runtime : 1 ms – Beats : 99.89%<br>Memory : 46.96 MB – Beats : 96.83% with the time complexity – O(n) and space complexity – O(n) |
+| 129 | 88.MergeSortedArray | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.02 MB – Beats : 24.17% with the time complexity – O(m + n) and space complexity – O(1) |
+| 130 | 867.TransposeMatrix | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 46.77 MB – Beats : 48.44% with the time complexity – O(?) and space complexity – O(?) |
+| 131 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
+| 132 | 67.AddBinary | Easy | Runtime : 1 ms – Beats : 99.94%<br>Memory : 43.42 MB – Beats : 84.32% with the time complexity – O(max(n, m)) and space complexity – O(max(n, m)) |
+| 133 | 643.MaximumAverageSubarrayI | Easy | Runtime : 5 ms – Beats 35.91% with the time complexity – O(n) and space complexity – O(1) |
+| 134 | 566.ReshapetheMatrix | Easy | Runtime : 0 ms – Beats : 100% Memory : 47.19 MB – Beats : 90.95% with the time complexity – O(m × n) and space complexity – O(m × n) |
+| 135 | 496.NextGreaterElementI | Easy | Runtime : 4 ms – Beats : 73.27%<br>Memory : 45.49 MB – Beats : 30.65% with the time complexity – O(n) and space complexity – O(n) |
+| 136 | 3903.SmallestStableIndexI | Easy | Runtime : 1 ms – Beats : 99.79% Memory : 46.23 MB – Beats : 70.85% with the time complexity – O(n) and space complexity – O(1) |
+| 137 | 3838.WeightedWordMapping | Easy | Runtime : 3 ms – Beats 33.62% with the time complexity – O(T) and space complexity – O(1) |
+| 138 | 3731.FindMissingElements | Easy | Runtime : 7 ms – Beats : 22.50% Memory : 47.39 MB – Beats : 11.76% with the time complexity – O(n) and space complexity – O(n) |
+| 139 | 35.SearchInsertPosition | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.52 MB – Beats : 90.79% with the time complexity – O(log n) and space complexity – O(1) |
+| 140 | 3483.Unique3DigitEvenNumbers | Easy | Runtime : 5 ms – Beats : 82.80% Memory : 46.34 MB – Beats : 46.93% with the time complexity – O(n³) and space complexity – O(M) |
+| 141 | 3069.DistributeElementsIntoTwoArraysI | Easy | Runtime : 1 ms – Beats : 98.09% Memory : 46.8 MB – Beats : 23.92% with the time complexity – O(n) and space complexity – O(n) |
+| 142 | 2996.SmallestMissingIntegerGreaterThanSequentialPrefixSum | Easy | Runtime : 1 ms – Beats : 93.72% Memory : 43.82 MB – Beats : 88.14% with the time complexity – O(n) and space complexity – O(n) |
+| 143 | 26.RemoveDuplicatesfromSortedArray | Easy | Runtime : 1 ms – Beats : 79.19%<br>Memory : 46.91 MB – Beats : 20.89% with the time complexity – O(n) and space complexity – O(1) |
+| 144 | 2540.MinimumCommonValue | Easy | Runtime : 2 ms – Beats 88.98% with the time complexity – O(n + m) and space complexity – O(1) |
+| 145 | 1752.CheckifArrayIsSortedandRotated | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 146 | 1732.FindtheHighestAltitude | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 147 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56%<br>Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
+| 148 | 1588.SumofAllOddLengthSubarrays | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.31 MB – Beats : 17.77% with the time complexity – O(n) and space complexity – O(1) |
+| 149 | 1572.MatrixDiagonalSum | Easy | Runtime : 1 ms – Beats : 35.43% Memory : 46.54 MB – Beats : 14.20% with the time complexity – O(n × m) and space complexity – O(1) |
+| 150 | 1464.MaximumProductofTwoElementsinanArray | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 44.65 MB – Beats : 46.74% with the time complexity – O(n) and space complexity – O(1) |
+| 151 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45%<br>Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
+| 152 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50%<br>Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
+| 153 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60%<br>Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
+| 154 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50%<br>Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
+| 155 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22%<br>Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
+| 156 | 1.TwoSum | Easy | Runtime : 2 ms – Beats : 99.22%<br>Memory : 47.16 MB – Beats : 55.67% with the time complexity – O(n) and space complexity – O(n) |
