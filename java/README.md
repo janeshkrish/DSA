@@ -9,9 +9,9 @@ This document records my ongoing journey of practicing and mastering Data Struct
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Total_Solved-159-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total_Solved-160-00F7FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Easy-53-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Medium-88-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medium-89-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hard-18-red?style=for-the-badge"/>
 
 </p>
@@ -63,127 +63,128 @@ Progress: ██████████ 100%
 | 33 | 486.PredicttheWinner | Medium | Runtime : 0 ms – Beats : 100.00% Memory : 42.64 MB – Beats : 74.96% with the time complexity – O(n^2) and space complexity – O(n) |
 | 34 | 3876.ConstructUniformParityArrayII | Medium | Runtime : 5 ms – Beats : 83.33% Memory : 121.41 MB – Beats : 81.16% with the time complexity – O(n) and space complexity – O(1) |
 | 35 | 3871.CountCommasinRangeII | Medium | Runtime : 1 ms – Beats : 99.36% Memory : 42.92 MB – Beats : 11.54% with the time complexity – O(log1000n) and space complexity – O(1) |
-| 36 | 1344.Angle etweenHandsofaClock | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(1) and space complexity – O(1) |
-| 37 | 1140.StoneGameII | Medium | Runtime : 2 ms – Beats : 100.00% Memory : 43.90 MB – Beats : 97.33% with the time complexity – O(n) and space complexity – O(n) |
-| 38 | 1563.StoneGameV | Hard | Runtime : 32 ms – Beats : 95.67% Memory : 52.69 MB – Beats : 5.05% with the time complexity – O(n²) and space complexity – O(n²) |
-| 39 | 150.StoneGameIV | Hard | Runtime : 13 ms – Beats : 92.43% Memory : 42.22 MB – Beats : 90.34% with the time complexity – O(1) and space complexity – O(1) |
-| 40 | 836.RectangleOverlap | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 43.03 MB – Beats : 5.43% with the time complexity – O(1) and space complexity – O(1) |
-| 41 | 69.Sqrt(x) | Easy | Runtime : 1 ms – Beats : 97.60%<br>Memory : 42.44 MB – Beats : 84.38% with the time complexity – O(log x) and space complexity – O(1) |
-| 42 | 628.MaximumProductofThreeNumbers | Easy | Runtime : 16 ms – Beats : 37.76% Memory : 48.25 MB – Beats : 25.98% with the time complexity – O(nlongn) and space complexity – O(nlongn) |
-| 43 | 3875.ConstructUniformParityArrayI | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 44.95 MB – Beats : 87.60% with the time complexity – O(1) and space complexity – O(1) |
-| 44 | 3870.CountCommasinRange | Easy | Runtime : 8 ms – Beats : 8.47% Memory : 42.72 MB – Beats : 22.48% with the time complexity – O(1) and space complexity – O(1) |
-| 45 | 3345.SmallestDivisibleDigitProductI | Easy | Runtime : 1 ms – Beats : 100.00% Memory : 42.27 MB – Beats : 96.34% with the time complexity – O(k × log n) and space complexity – O(k) |
-| 46 | 92.ReverseLinkedListII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 47 | 707.DesignLinkedList | Medium | Runtime : 10 ms – Beats 50.87% with the time complexity – O(n) and space complexity – O(n) |
-| 48 | 61.RotateList | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 57.03% with the time complexity – O(n) and space complexity – O(1) |
-| 49 | 328.OddEvenLinkedList | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 50 | 2095.DeletetheMiddleNodeofaLinkedList | Medium | Runtime : 3 ms – Beats 99.96% with the time complexity – O(n) and space complexity – O(1) |
-| 51 | 2058.FindtheMinimumandMaximumNumberofNodesBetweenCriticalPoints | Medium | Runtime : 24 ms – Beats : 6.05% Memory : 118.61 MB – Beats : 5.10% with the time complexity – O(n) and space complexity – O(1) |
-| 52 | 19.RemoveNthNodeFromEndofList | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 53 | 148.SortList | Medium | Runtime : 13 ms – Beats : 26.47%<br>Memory : 61.47 MB – Beats : 25.81% with the time complexity – O(n log n) and space complexity – O(1) |
-| 54 | 83.RemoveDuplicatesfromSortedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 45.59 MB – Beats : 45.89% with the time complexity – O(n) and space complexity – O(1) |
-| 55 | 21.MergeTwoSortedLists | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.20 MB – Beats : 72.06% with the time complexity – O(m + n) and space complexity – O(1) |
-| 56 | 206.ReverseLinkedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 43.48% with the time complexity – O(n) and space complexity – O(1) |
-| 57 | 160. IntersectionofTwoLinkedLists | Easy | Runtime : 1 ms – Beats : 99.92%<br>Memory : 52.84 MB – Beats : 57.33% with the time complexity – O(n + m) and space complexity – O(1) |
-| 58 | 99.RecoverBinarySearchTree | Medium | Runtime : 1 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(h) |
-| 59 | 98.ValidateBinarySearchTree | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.90 MB – Beats : 93.73% with the time complexity – O(n) and space complexity – O(h) |
-| 60 | 2265.CountNodesEqualtoAverageofSubtree | Medium | Runtime : 0 ms – Beats : 100.00% Memory : 45.46 MB – Beats : 63.38% with the time complexity – O(n) and space complexity – O(h) |
-| 61 | 199.BinaryTreeRightSideView | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
-| 62 | 129.SumRoottoLeafNumbers | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
-| 63 | 114.FlattenBinaryTreetoLinkedList | Medium | Runtime : 1 ms – Beats 18.14% with the time complexity – O(n) and space complexity – O(n) |
-| 64 | 109.ConvertSortedListtoBinarySearchTree | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(log n) |
-| 65 | 106.ConstructBinaryTreefromInorderandPostordertraversal | Medium | Runtime : 1 ms – Beats 98.19% with the time complexity – O(n) and space complexity – O(n) |
-| 66 | 103.BinaryTreeZigzagLevelOrderTraversal | Medium | Runtime : 1 ms – Beats : 80.36% Memory : 44.07 MB – Beats : 9.71% with the time complexity – O(n^2) and space complexity – O(n) |
-| 67 | 102.BinaryTreeLevelOrderTraversal | Medium | Runtime : 2 ms – Beats 94.84% with the time complexity – O(n) and space complexity – O(n) |
-| 68 | 3501.MaximizeActiveSectionwithTradeII | Hard | Runtime : 60 ms – Beats : 100.00% Memory : 232.39 MB – Beats : 75.00% with the time complexity – O(n log n + m) and space complexity – O(n log n + m) |
-| 69 | 2213.LongestSubstringofOneRepeatingCharacter | Hard | Runtime : 129 ms – Beats : 31.25% Memory : 157.06 MB – Beats : 17.19% with the time complexity – O(n) and space complexity – O(n) |
-| 70 | 1766.TreeofCoprimes | Hard | Runtime : 194 ms – Beats 20.37% with the time complexity – O(n × 50 × log 50) and space complexity – O(n + 50) |
-| 71 | 94.BinaryTreeInorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.13 MB – Beats : 61.85% with the time complexity – O(n) and space complexity – O(n) |
-| 72 | 144.BinaryTreePreorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 43.28 MB – Beats : 45.50% with Time Complexity – O(n) and Space Complexity – O(1) |
-| 73 | 111.MinimumDepthofBinaryTree | Easy | Runtime : 2 ms – Beats 94.84% with the time complexity – O(n) and space complexity – O(n) |
-| 74 | 110.BalancedBinaryTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
-| 75 | 108.ConvertSortedArraytoBinarySearchTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(log n) |
-| 76 | 101.SymmetricTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
-| 77 | 100.SameTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
-| 78 | 788.RotatedDigits | Medium | Runtime : 3 ms – Beats 91.63% with the time complexity – O(n log n) and space complexity – O(1) |
-| 79 | 78.Subsets | Medium | Runtime : 1 ms – Beats 88.98% with the time complexity – O(n × 2ⁿ) and space complexity – O(n × 2ⁿ) |
-| 80 | 77.Combinations | Medium | Runtime : 18 ms – Beats : 82.75%<br>Memory : 98.20 MB – Beats : 36.12% with the time complexity – O(C(n, k) × k) and space complexity – O(C(n, k) × k) |
-| 81 | 75.SortColors | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.79 MB – Beats : 16.88% with the time complexity – O(n) and space complexity – O(1) |
-| 82 | 74.Searcha2DMatrix | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log(m × n)) and space complexity – O(1) |
-| 83 | 64.MinimumPathSum | Medium | Runtime : 4 ms – Beats 62.23% with the time complexity – O(m × n) and space complexity – O(m × n) |
-| 84 | 622.DesignCircularQueue | Medium | Runtime : 5 ms – Beats : 36.25%<br>Memory : 46.43 MB – Beats : 82.05% with the time complexity – O(1) and space complexity – O(n) |
-| 85 | 57.InsertInterval | Medium | Runtime : 1 ms – Beats 97.88% with the time complexity – O(n) and space complexity – O(n) |
-| 86 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42%<br>Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
-| 87 | 55.JumpGame | Medium | Runtime : 2 ms – Beats 87.16% with the time complexity – O(n) and space complexity – O(1) |
-| 88 | 54.SpiralMatrix | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(m × n) and space complexity – O(1) |
-| 89 | 53.MaximumSubarray | Medium | Runtime : 185 ms – Beats 1.93% with the time complexity – O(n) and space complexity – O(1) |
-| 90 | 50.Pow(x, n) | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
-| 91 | 48.RotateImage | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n²) and space complexity – O(1) |
-| 92 | 47.PermutationsII | Medium | Runtime : 3 ms – Beats 89.10% with the time complexity – O(n × n!) and space complexity – O(n) |
-| 93 | 46.Permutations | Medium | Runtime : 1 ms – Beats : 84.83%<br>Memory : 45.43 MB – Beats : 72.34% with the time complexity – O(n! × n) and space complexity – O(n! × n) |
-| 94 | 45.JumpGameII | Medium | Runtime : 1 ms – Beats 99.55% with the time complexity – O(n) and space complexity – O(1) |
-| 95 | 40.CombinationSumII | Medium | Runtime : 6 ms – Beats 72.64% with the time complexity – O(2^n) and space complexity – O(n) |
-| 96 | 396.RotateFunction | Medium | Runtime : 4 ms – Beats 90.35% with the time complexity – O(n) and space complexity – O(1) |
-| 97 | 3904.SmallestStableIndexII | Medium | Runtime : 3 ms – Beats : 100.00% Memory : 125.00 MB – Beats : 99.10% with the time complexity – O(n) and space complexity – O(1) |
-| 98 | 39.CombinationSum | Medium | Runtime : 2 ms – Beats : 95.60%<br>Memory : 45.63 MB – Beats : 75.74% with the time complexity – O(2^T) and space complexity – O(2^T) |
-| 99 | 3737.CountSubarraysWithMajorityElementI | Medium | Runtime : 34 ms – Beats 67.67% with the time complexity – O(n²) and space complexity – O(1) |
-| 100 | 36.ValidSudoku | Medium | Runtime : 12 ms – Beats : 19.16%<br>Memory : 52.72 MB – Beats : 7.50% with the time complexity – O(1) and space complexity – O(1) |
-| 101 | 34.FindFirstandLastPositionofElementinSortedArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
-| 102 | 3302.FindtheLexicographicallySmallestValidSequence | Medium | Runtime : 21 ms – Beats : 100.00% Memory : 144.05 MB – Beats : 16.67% with the time complexity – O(n+m) and space complexity – O(n+m) |
-| 103 | 33.SearchinRotatedSortedArray | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.94 MB – Beats : 35.17% with the time complexity – O(log n) and space complexity – O(1) |
-| 104 | 322.CoinChange | Medium | Runtime : 16 ms – Beats 68.17% with the time complexity – O(n × amount) and space complexity – O(n × amount). |
-| 105 | 31.NextPermutation | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 106 | 3043.FindtheLengthoftheLongestCommonPrefix | Medium | Runtime : 197 ms – Beats 20.59% with the time complexity – O(n × d² + m × d²) and space complexity – O(n × d) |
-| 107 | 2948.MakeLexicographicallySmallestArraybySwappingElements | Medium | Runtime : 124 ms – Beats : 38.64% Memory : 249.91 MB – Beats : 6.82% with the time complexity – O(n) and space complexity – O(n) |
-| 108 | 29.DivideTwoIntegers | Medium | Runtime : 1 ms – Beats : 91.18%<br>Memory : 42.43 MB – Beats : 91.08% with the time complexity – O(log n) and space complexity – O(1) |
-| 109 | 2770.MaximumNumberofJumpstoReachtheLastIndex | Medium | Runtime : 13 ms – Beats 92.26% with the time complexity – O(n²) and space complexity – O(n) |
-| 110 | 2657.FindthePrefixCommonArrayofTwoArrays | Medium | Runtime : 5 ms – Beats 38.40% with the time complexity – O(n) and space complexity – O(n) |
-| 111 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
-| 112 | 213.HouseRobberII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n). |
-| 113 | 198.HouseRobber | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
-| 114 | 189.RotateArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 115 | 18. 4Sum | Medium | Runtime : 5 ms – Beats : 99.76%<br>Memory : 45.14 MB – Beats : 99.34% with the time complexity – O(n³) and space complexity – O(n) |
-| 116 | 1722.MinimizeHammingDistanceAfterSwapOperations | Medium | Runtime : 45 ms – Beats 81.72% with the time complexity – O(n α(n)) and space complexity – O(n) |
-| 117 | 153.FindMinimuminRotatedSortedArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
-| 118 | 15.3Sum | Medium | Runtime : 36 ms – Beats : 31.25%<br>Memory : 59.17 MB – Beats : 73.09% with the time complexity – O(n²) and space complexity – O(n) |
-| 119 | 1386.CinemaSeatAllocation | Medium | Runtime : 16 ms – Beats : 96.58% Memory : 52.61 MB – Beats : 52.10% with the time complexity – O(n) and space complexity – O(n) |
-| 120 | 128.LongestConsecutiveSequence | Medium | Runtime : 79 ms – Beats 5.09% with the time complexity – O(n log n) and space complexity – O(n) |
-| 121 | 122.BestTimetoBuyandSellStockII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 122 | 11.ContainerWithMostWater | Medium | Runtime : 5 ms – Beats : 81.91%<br>Memory : 77.41 MB – Beats : 46.95% with the time complexity – O(n) and space complexity – O(1) |
-| 123 | 105.ConstructBinaryTreefromPreorderandInorderTraversal | Medium | Runtime : 1 ms – Beats : 96.66%<br>Memory : 46.54 MB – Beats : 34.60% with the time complexity – O(n) and space complexity – O(n) |
-| 124 | .ImageOverlap | Medium | Runtime : 18 ms – Beats : 98.48% Memory : 45.13 MB – Beats : 52.27% with the time complexity – O(n) and space complexity – O(n) |
-| 125 | 42.TrappingRainWater | Hard | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 126 | 41.FirstMissingPositive | Hard | Runtime : 1 ms – Beats : 100.00%<br>Memory : 71.19 MB – Beats : 78.43% with the time complexity – O(n) and space complexity – O(1) |
-| 127 | 3414.MaximumScoreofNonoverlappingIntervals | Hard | Runtime : 110 ms – Beats : 87.04% Memory : 162.44 MB – Beats : 92.59% with the time complexity – O(nlogn) and space complexity – O(n) |
-| 128 | 1840.MaximumBuildingHeight | Hard | Runtime : 62 ms – Beats 17.65% with the time complexity – O(m log m) and space complexity – O(m) |
-| 129 | 1340.JumpGameV | Hard | Runtime : 9 ms – Beats 97.43% with the time complexity – O(n × d) and space complexity – O(n) |
-| 130 | 123.BestTimetoBuyandSellStock III | Hard | Runtime : 1 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 131 | 977.SquaresofaSortedArrays | Easy | Runtime : 1 ms – Beats : 99.89%<br>Memory : 46.96 MB – Beats : 96.83% with the time complexity – O(n) and space complexity – O(n) |
-| 132 | 88.MergeSortedArray | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.02 MB – Beats : 24.17% with the time complexity – O(m + n) and space complexity – O(1) |
-| 133 | 867.TransposeMatrix | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 46.77 MB – Beats : 48.44% with the time complexity – O(?) and space complexity – O(?) |
-| 134 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
-| 135 | 67.AddBinary | Easy | Runtime : 1 ms – Beats : 99.94%<br>Memory : 43.42 MB – Beats : 84.32% with the time complexity – O(max(n, m)) and space complexity – O(max(n, m)) |
-| 136 | 643.MaximumAverageSubarrayI | Easy | Runtime : 5 ms – Beats 35.91% with the time complexity – O(n) and space complexity – O(1) |
-| 137 | 566.ReshapetheMatrix | Easy | Runtime : 0 ms – Beats : 100% Memory : 47.19 MB – Beats : 90.95% with the time complexity – O(m × n) and space complexity – O(m × n) |
-| 138 | 496.NextGreaterElementI | Easy | Runtime : 4 ms – Beats : 73.27%<br>Memory : 45.49 MB – Beats : 30.65% with the time complexity – O(n) and space complexity – O(n) |
-| 139 | 3903.SmallestStableIndexI | Easy | Runtime : 1 ms – Beats : 99.79% Memory : 46.23 MB – Beats : 70.85% with the time complexity – O(n) and space complexity – O(1) |
-| 140 | 3838.WeightedWordMapping | Easy | Runtime : 3 ms – Beats 33.62% with the time complexity – O(T) and space complexity – O(1) |
-| 141 | 3731.FindMissingElements | Easy | Runtime : 7 ms – Beats : 22.50% Memory : 47.39 MB – Beats : 11.76% with the time complexity – O(n) and space complexity – O(n) |
-| 142 | 35.SearchInsertPosition | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.52 MB – Beats : 90.79% with the time complexity – O(log n) and space complexity – O(1) |
-| 143 | 3483.Unique3DigitEvenNumbers | Easy | Runtime : 5 ms – Beats : 82.80% Memory : 46.34 MB – Beats : 46.93% with the time complexity – O(n³) and space complexity – O(M) |
-| 144 | 3069.DistributeElementsIntoTwoArraysI | Easy | Runtime : 1 ms – Beats : 98.09% Memory : 46.8 MB – Beats : 23.92% with the time complexity – O(n) and space complexity – O(n) |
-| 145 | 2996.SmallestMissingIntegerGreaterThanSequentialPrefixSum | Easy | Runtime : 1 ms – Beats : 93.72% Memory : 43.82 MB – Beats : 88.14% with the time complexity – O(n) and space complexity – O(n) |
-| 146 | 26.RemoveDuplicatesfromSortedArray | Easy | Runtime : 1 ms – Beats : 79.19%<br>Memory : 46.91 MB – Beats : 20.89% with the time complexity – O(n) and space complexity – O(1) |
-| 147 | 2540.MinimumCommonValue | Easy | Runtime : 2 ms – Beats 88.98% with the time complexity – O(n + m) and space complexity – O(1) |
-| 148 | 1752.CheckifArrayIsSortedandRotated | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 149 | 1732.FindtheHighestAltitude | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
-| 150 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56%<br>Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
-| 151 | 1588.SumofAllOddLengthSubarrays | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.31 MB – Beats : 17.77% with the time complexity – O(n) and space complexity – O(1) |
-| 152 | 1572.MatrixDiagonalSum | Easy | Runtime : 1 ms – Beats : 35.43% Memory : 46.54 MB – Beats : 14.20% with the time complexity – O(n × m) and space complexity – O(1) |
-| 153 | 1464.MaximumProductofTwoElementsinanArray | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 44.65 MB – Beats : 46.74% with the time complexity – O(n) and space complexity – O(1) |
-| 154 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45%<br>Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
-| 155 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50%<br>Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
-| 156 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60%<br>Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
-| 157 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50%<br>Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
-| 158 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22%<br>Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
-| 159 | 1.TwoSum | Easy | Runtime : 2 ms – Beats : 99.22%<br>Memory : 47.16 MB – Beats : 55.67% with the time complexity – O(n) and space complexity – O(n) |
+| 36 | 1621.NumberofSetsofKNonOverlappingLineSegments | Medium | Runtime : 0 ms – Beats : 100.00% Memory : 41.80 MB – Beats : 98.06% with the time complexity – O(R) and space complexity – O(1) |
+| 37 | 1344.Angle etweenHandsofaClock | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(1) and space complexity – O(1) |
+| 38 | 1140.StoneGameII | Medium | Runtime : 2 ms – Beats : 100.00% Memory : 43.90 MB – Beats : 97.33% with the time complexity – O(n) and space complexity – O(n) |
+| 39 | 1563.StoneGameV | Hard | Runtime : 32 ms – Beats : 95.67% Memory : 52.69 MB – Beats : 5.05% with the time complexity – O(n²) and space complexity – O(n²) |
+| 40 | 150.StoneGameIV | Hard | Runtime : 13 ms – Beats : 92.43% Memory : 42.22 MB – Beats : 90.34% with the time complexity – O(1) and space complexity – O(1) |
+| 41 | 836.RectangleOverlap | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 43.03 MB – Beats : 5.43% with the time complexity – O(1) and space complexity – O(1) |
+| 42 | 69.Sqrt(x) | Easy | Runtime : 1 ms – Beats : 97.60%<br>Memory : 42.44 MB – Beats : 84.38% with the time complexity – O(log x) and space complexity – O(1) |
+| 43 | 628.MaximumProductofThreeNumbers | Easy | Runtime : 16 ms – Beats : 37.76% Memory : 48.25 MB – Beats : 25.98% with the time complexity – O(nlongn) and space complexity – O(nlongn) |
+| 44 | 3875.ConstructUniformParityArrayI | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 44.95 MB – Beats : 87.60% with the time complexity – O(1) and space complexity – O(1) |
+| 45 | 3870.CountCommasinRange | Easy | Runtime : 8 ms – Beats : 8.47% Memory : 42.72 MB – Beats : 22.48% with the time complexity – O(1) and space complexity – O(1) |
+| 46 | 3345.SmallestDivisibleDigitProductI | Easy | Runtime : 1 ms – Beats : 100.00% Memory : 42.27 MB – Beats : 96.34% with the time complexity – O(k × log n) and space complexity – O(k) |
+| 47 | 92.ReverseLinkedListII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 48 | 707.DesignLinkedList | Medium | Runtime : 10 ms – Beats 50.87% with the time complexity – O(n) and space complexity – O(n) |
+| 49 | 61.RotateList | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 57.03% with the time complexity – O(n) and space complexity – O(1) |
+| 50 | 328.OddEvenLinkedList | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 51 | 2095.DeletetheMiddleNodeofaLinkedList | Medium | Runtime : 3 ms – Beats 99.96% with the time complexity – O(n) and space complexity – O(1) |
+| 52 | 2058.FindtheMinimumandMaximumNumberofNodesBetweenCriticalPoints | Medium | Runtime : 24 ms – Beats : 6.05% Memory : 118.61 MB – Beats : 5.10% with the time complexity – O(n) and space complexity – O(1) |
+| 53 | 19.RemoveNthNodeFromEndofList | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 54 | 148.SortList | Medium | Runtime : 13 ms – Beats : 26.47%<br>Memory : 61.47 MB – Beats : 25.81% with the time complexity – O(n log n) and space complexity – O(1) |
+| 55 | 83.RemoveDuplicatesfromSortedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 45.59 MB – Beats : 45.89% with the time complexity – O(n) and space complexity – O(1) |
+| 56 | 21.MergeTwoSortedLists | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.20 MB – Beats : 72.06% with the time complexity – O(m + n) and space complexity – O(1) |
+| 57 | 206.ReverseLinkedList | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.35 MB – Beats : 43.48% with the time complexity – O(n) and space complexity – O(1) |
+| 58 | 160. IntersectionofTwoLinkedLists | Easy | Runtime : 1 ms – Beats : 99.92%<br>Memory : 52.84 MB – Beats : 57.33% with the time complexity – O(n + m) and space complexity – O(1) |
+| 59 | 99.RecoverBinarySearchTree | Medium | Runtime : 1 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(h) |
+| 60 | 98.ValidateBinarySearchTree | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.90 MB – Beats : 93.73% with the time complexity – O(n) and space complexity – O(h) |
+| 61 | 2265.CountNodesEqualtoAverageofSubtree | Medium | Runtime : 0 ms – Beats : 100.00% Memory : 45.46 MB – Beats : 63.38% with the time complexity – O(n) and space complexity – O(h) |
+| 62 | 199.BinaryTreeRightSideView | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
+| 63 | 129.SumRoottoLeafNumbers | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
+| 64 | 114.FlattenBinaryTreetoLinkedList | Medium | Runtime : 1 ms – Beats 18.14% with the time complexity – O(n) and space complexity – O(n) |
+| 65 | 109.ConvertSortedListtoBinarySearchTree | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(log n) |
+| 66 | 106.ConstructBinaryTreefromInorderandPostordertraversal | Medium | Runtime : 1 ms – Beats 98.19% with the time complexity – O(n) and space complexity – O(n) |
+| 67 | 103.BinaryTreeZigzagLevelOrderTraversal | Medium | Runtime : 1 ms – Beats : 80.36% Memory : 44.07 MB – Beats : 9.71% with the time complexity – O(n^2) and space complexity – O(n) |
+| 68 | 102.BinaryTreeLevelOrderTraversal | Medium | Runtime : 2 ms – Beats 94.84% with the time complexity – O(n) and space complexity – O(n) |
+| 69 | 3501.MaximizeActiveSectionwithTradeII | Hard | Runtime : 60 ms – Beats : 100.00% Memory : 232.39 MB – Beats : 75.00% with the time complexity – O(n log n + m) and space complexity – O(n log n + m) |
+| 70 | 2213.LongestSubstringofOneRepeatingCharacter | Hard | Runtime : 129 ms – Beats : 31.25% Memory : 157.06 MB – Beats : 17.19% with the time complexity – O(n) and space complexity – O(n) |
+| 71 | 1766.TreeofCoprimes | Hard | Runtime : 194 ms – Beats 20.37% with the time complexity – O(n × 50 × log 50) and space complexity – O(n + 50) |
+| 72 | 94.BinaryTreeInorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.13 MB – Beats : 61.85% with the time complexity – O(n) and space complexity – O(n) |
+| 73 | 144.BinaryTreePreorderTraversal | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 43.28 MB – Beats : 45.50% with Time Complexity – O(n) and Space Complexity – O(1) |
+| 74 | 111.MinimumDepthofBinaryTree | Easy | Runtime : 2 ms – Beats 94.84% with the time complexity – O(n) and space complexity – O(n) |
+| 75 | 110.BalancedBinaryTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
+| 76 | 108.ConvertSortedArraytoBinarySearchTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(log n) |
+| 77 | 101.SymmetricTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
+| 78 | 100.SameTree | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
+| 79 | 788.RotatedDigits | Medium | Runtime : 3 ms – Beats 91.63% with the time complexity – O(n log n) and space complexity – O(1) |
+| 80 | 78.Subsets | Medium | Runtime : 1 ms – Beats 88.98% with the time complexity – O(n × 2ⁿ) and space complexity – O(n × 2ⁿ) |
+| 81 | 77.Combinations | Medium | Runtime : 18 ms – Beats : 82.75%<br>Memory : 98.20 MB – Beats : 36.12% with the time complexity – O(C(n, k) × k) and space complexity – O(C(n, k) × k) |
+| 82 | 75.SortColors | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.79 MB – Beats : 16.88% with the time complexity – O(n) and space complexity – O(1) |
+| 83 | 74.Searcha2DMatrix | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log(m × n)) and space complexity – O(1) |
+| 84 | 64.MinimumPathSum | Medium | Runtime : 4 ms – Beats 62.23% with the time complexity – O(m × n) and space complexity – O(m × n) |
+| 85 | 622.DesignCircularQueue | Medium | Runtime : 5 ms – Beats : 36.25%<br>Memory : 46.43 MB – Beats : 82.05% with the time complexity – O(1) and space complexity – O(n) |
+| 86 | 57.InsertInterval | Medium | Runtime : 1 ms – Beats 97.88% with the time complexity – O(n) and space complexity – O(n) |
+| 87 | 56.MergeIntervals | Medium | Runtime : 10 ms – Beats : 24.42%<br>Memory : 49.21 MB – Beats : 38.27% with the time complexity – O(n log n) and space complexity – O(n) |
+| 88 | 55.JumpGame | Medium | Runtime : 2 ms – Beats 87.16% with the time complexity – O(n) and space complexity – O(1) |
+| 89 | 54.SpiralMatrix | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(m × n) and space complexity – O(1) |
+| 90 | 53.MaximumSubarray | Medium | Runtime : 185 ms – Beats 1.93% with the time complexity – O(n) and space complexity – O(1) |
+| 91 | 50.Pow(x, n) | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
+| 92 | 48.RotateImage | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n²) and space complexity – O(1) |
+| 93 | 47.PermutationsII | Medium | Runtime : 3 ms – Beats 89.10% with the time complexity – O(n × n!) and space complexity – O(n) |
+| 94 | 46.Permutations | Medium | Runtime : 1 ms – Beats : 84.83%<br>Memory : 45.43 MB – Beats : 72.34% with the time complexity – O(n! × n) and space complexity – O(n! × n) |
+| 95 | 45.JumpGameII | Medium | Runtime : 1 ms – Beats 99.55% with the time complexity – O(n) and space complexity – O(1) |
+| 96 | 40.CombinationSumII | Medium | Runtime : 6 ms – Beats 72.64% with the time complexity – O(2^n) and space complexity – O(n) |
+| 97 | 396.RotateFunction | Medium | Runtime : 4 ms – Beats 90.35% with the time complexity – O(n) and space complexity – O(1) |
+| 98 | 3904.SmallestStableIndexII | Medium | Runtime : 3 ms – Beats : 100.00% Memory : 125.00 MB – Beats : 99.10% with the time complexity – O(n) and space complexity – O(1) |
+| 99 | 39.CombinationSum | Medium | Runtime : 2 ms – Beats : 95.60%<br>Memory : 45.63 MB – Beats : 75.74% with the time complexity – O(2^T) and space complexity – O(2^T) |
+| 100 | 3737.CountSubarraysWithMajorityElementI | Medium | Runtime : 34 ms – Beats 67.67% with the time complexity – O(n²) and space complexity – O(1) |
+| 101 | 36.ValidSudoku | Medium | Runtime : 12 ms – Beats : 19.16%<br>Memory : 52.72 MB – Beats : 7.50% with the time complexity – O(1) and space complexity – O(1) |
+| 102 | 34.FindFirstandLastPositionofElementinSortedArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
+| 103 | 3302.FindtheLexicographicallySmallestValidSequence | Medium | Runtime : 21 ms – Beats : 100.00% Memory : 144.05 MB – Beats : 16.67% with the time complexity – O(n+m) and space complexity – O(n+m) |
+| 104 | 33.SearchinRotatedSortedArray | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.94 MB – Beats : 35.17% with the time complexity – O(log n) and space complexity – O(1) |
+| 105 | 322.CoinChange | Medium | Runtime : 16 ms – Beats 68.17% with the time complexity – O(n × amount) and space complexity – O(n × amount). |
+| 106 | 31.NextPermutation | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 107 | 3043.FindtheLengthoftheLongestCommonPrefix | Medium | Runtime : 197 ms – Beats 20.59% with the time complexity – O(n × d² + m × d²) and space complexity – O(n × d) |
+| 108 | 2948.MakeLexicographicallySmallestArraybySwappingElements | Medium | Runtime : 124 ms – Beats : 38.64% Memory : 249.91 MB – Beats : 6.82% with the time complexity – O(n) and space complexity – O(n) |
+| 109 | 29.DivideTwoIntegers | Medium | Runtime : 1 ms – Beats : 91.18%<br>Memory : 42.43 MB – Beats : 91.08% with the time complexity – O(log n) and space complexity – O(1) |
+| 110 | 2770.MaximumNumberofJumpstoReachtheLastIndex | Medium | Runtime : 13 ms – Beats 92.26% with the time complexity – O(n²) and space complexity – O(n) |
+| 111 | 2657.FindthePrefixCommonArrayofTwoArrays | Medium | Runtime : 5 ms – Beats 38.40% with the time complexity – O(n) and space complexity – O(n) |
+| 112 | 24.SwapNodesinPairs | Medium | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.00 MB – Beats : 61.63% with the time complexity – O(n) and space complexity – O(1) |
+| 113 | 213.HouseRobberII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n). |
+| 114 | 198.HouseRobber | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(n) |
+| 115 | 189.RotateArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 116 | 18. 4Sum | Medium | Runtime : 5 ms – Beats : 99.76%<br>Memory : 45.14 MB – Beats : 99.34% with the time complexity – O(n³) and space complexity – O(n) |
+| 117 | 1722.MinimizeHammingDistanceAfterSwapOperations | Medium | Runtime : 45 ms – Beats 81.72% with the time complexity – O(n α(n)) and space complexity – O(n) |
+| 118 | 153.FindMinimuminRotatedSortedArray | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(log n) and space complexity – O(1) |
+| 119 | 15.3Sum | Medium | Runtime : 36 ms – Beats : 31.25%<br>Memory : 59.17 MB – Beats : 73.09% with the time complexity – O(n²) and space complexity – O(n) |
+| 120 | 1386.CinemaSeatAllocation | Medium | Runtime : 16 ms – Beats : 96.58% Memory : 52.61 MB – Beats : 52.10% with the time complexity – O(n) and space complexity – O(n) |
+| 121 | 128.LongestConsecutiveSequence | Medium | Runtime : 79 ms – Beats 5.09% with the time complexity – O(n log n) and space complexity – O(n) |
+| 122 | 122.BestTimetoBuyandSellStockII | Medium | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 123 | 11.ContainerWithMostWater | Medium | Runtime : 5 ms – Beats : 81.91%<br>Memory : 77.41 MB – Beats : 46.95% with the time complexity – O(n) and space complexity – O(1) |
+| 124 | 105.ConstructBinaryTreefromPreorderandInorderTraversal | Medium | Runtime : 1 ms – Beats : 96.66%<br>Memory : 46.54 MB – Beats : 34.60% with the time complexity – O(n) and space complexity – O(n) |
+| 125 | .ImageOverlap | Medium | Runtime : 18 ms – Beats : 98.48% Memory : 45.13 MB – Beats : 52.27% with the time complexity – O(n) and space complexity – O(n) |
+| 126 | 42.TrappingRainWater | Hard | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 127 | 41.FirstMissingPositive | Hard | Runtime : 1 ms – Beats : 100.00%<br>Memory : 71.19 MB – Beats : 78.43% with the time complexity – O(n) and space complexity – O(1) |
+| 128 | 3414.MaximumScoreofNonoverlappingIntervals | Hard | Runtime : 110 ms – Beats : 87.04% Memory : 162.44 MB – Beats : 92.59% with the time complexity – O(nlogn) and space complexity – O(n) |
+| 129 | 1840.MaximumBuildingHeight | Hard | Runtime : 62 ms – Beats 17.65% with the time complexity – O(m log m) and space complexity – O(m) |
+| 130 | 1340.JumpGameV | Hard | Runtime : 9 ms – Beats 97.43% with the time complexity – O(n × d) and space complexity – O(n) |
+| 131 | 123.BestTimetoBuyandSellStock III | Hard | Runtime : 1 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 132 | 977.SquaresofaSortedArrays | Easy | Runtime : 1 ms – Beats : 99.89%<br>Memory : 46.96 MB – Beats : 96.83% with the time complexity – O(n) and space complexity – O(n) |
+| 133 | 88.MergeSortedArray | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.02 MB – Beats : 24.17% with the time complexity – O(m + n) and space complexity – O(1) |
+| 134 | 867.TransposeMatrix | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 46.77 MB – Beats : 48.44% with the time complexity – O(?) and space complexity – O(?) |
+| 135 | 70.ClimbingStairs | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 41.90 MB – Beats : 87.57% with the time complexity – O(n) and space complexity – O(1) |
+| 136 | 67.AddBinary | Easy | Runtime : 1 ms – Beats : 99.94%<br>Memory : 43.42 MB – Beats : 84.32% with the time complexity – O(max(n, m)) and space complexity – O(max(n, m)) |
+| 137 | 643.MaximumAverageSubarrayI | Easy | Runtime : 5 ms – Beats 35.91% with the time complexity – O(n) and space complexity – O(1) |
+| 138 | 566.ReshapetheMatrix | Easy | Runtime : 0 ms – Beats : 100% Memory : 47.19 MB – Beats : 90.95% with the time complexity – O(m × n) and space complexity – O(m × n) |
+| 139 | 496.NextGreaterElementI | Easy | Runtime : 4 ms – Beats : 73.27%<br>Memory : 45.49 MB – Beats : 30.65% with the time complexity – O(n) and space complexity – O(n) |
+| 140 | 3903.SmallestStableIndexI | Easy | Runtime : 1 ms – Beats : 99.79% Memory : 46.23 MB – Beats : 70.85% with the time complexity – O(n) and space complexity – O(1) |
+| 141 | 3838.WeightedWordMapping | Easy | Runtime : 3 ms – Beats 33.62% with the time complexity – O(T) and space complexity – O(1) |
+| 142 | 3731.FindMissingElements | Easy | Runtime : 7 ms – Beats : 22.50% Memory : 47.39 MB – Beats : 11.76% with the time complexity – O(n) and space complexity – O(n) |
+| 143 | 35.SearchInsertPosition | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 44.52 MB – Beats : 90.79% with the time complexity – O(log n) and space complexity – O(1) |
+| 144 | 3483.Unique3DigitEvenNumbers | Easy | Runtime : 5 ms – Beats : 82.80% Memory : 46.34 MB – Beats : 46.93% with the time complexity – O(n³) and space complexity – O(M) |
+| 145 | 3069.DistributeElementsIntoTwoArraysI | Easy | Runtime : 1 ms – Beats : 98.09% Memory : 46.8 MB – Beats : 23.92% with the time complexity – O(n) and space complexity – O(n) |
+| 146 | 2996.SmallestMissingIntegerGreaterThanSequentialPrefixSum | Easy | Runtime : 1 ms – Beats : 93.72% Memory : 43.82 MB – Beats : 88.14% with the time complexity – O(n) and space complexity – O(n) |
+| 147 | 26.RemoveDuplicatesfromSortedArray | Easy | Runtime : 1 ms – Beats : 79.19%<br>Memory : 46.91 MB – Beats : 20.89% with the time complexity – O(n) and space complexity – O(1) |
+| 148 | 2540.MinimumCommonValue | Easy | Runtime : 2 ms – Beats 88.98% with the time complexity – O(n + m) and space complexity – O(1) |
+| 149 | 1752.CheckifArrayIsSortedandRotated | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 150 | 1732.FindtheHighestAltitude | Easy | Runtime : 0 ms – Beats 100.00% with the time complexity – O(n) and space complexity – O(1) |
+| 151 | 169.MajorityElement | Easy | Runtime : 2 ms – Beats : 70.56%<br>Memory : 55.62 MB – Beats : 60.94% with the time complexity – O(n) and space complexity – O(1) |
+| 152 | 1588.SumofAllOddLengthSubarrays | Easy | Runtime : 0 ms – Beats : 100.00%<br>Memory : 43.31 MB – Beats : 17.77% with the time complexity – O(n) and space complexity – O(1) |
+| 153 | 1572.MatrixDiagonalSum | Easy | Runtime : 1 ms – Beats : 35.43% Memory : 46.54 MB – Beats : 14.20% with the time complexity – O(n × m) and space complexity – O(1) |
+| 154 | 1464.MaximumProductofTwoElementsinanArray | Easy | Runtime : 0 ms – Beats : 100.00% Memory : 44.65 MB – Beats : 46.74% with the time complexity – O(n) and space complexity – O(1) |
+| 155 | 14.LongestCommonPrefix | Easy | Runtime : 1 ms – Beats : 65.45%<br>Memory : 43.36 MB – Beats : 50.11% with the time complexity – O(S) and space complexity – O(1) |
+| 156 | 1365.HowManyNumbersAreSmallerThantheCurrentNumber | Easy | Runtime : 1 ms – Beats : 99.50%<br>Memory : 45.54 MB – Beats : 69.60% with the time complexity – O(n) and space complexity – O(1) |
+| 157 | 1356.SortIntegersbyTheNumberof1Bits | Easy | Runtime : 9 ms – Beats : 57.60%<br>Memory : 46.46 MB – Beats : 94.14% with the time complexity – O(n log n) and space complexity – O(n) |
+| 158 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50%<br>Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
+| 159 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22%<br>Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
+| 160 | 1.TwoSum | Easy | Runtime : 2 ms – Beats : 99.22%<br>Memory : 47.16 MB – Beats : 55.67% with the time complexity – O(n) and space complexity – O(n) |
