@@ -9,8 +9,8 @@ This document records my ongoing journey of practicing and mastering Data Struct
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Total_Solved-163-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Easy-54-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total_Solved-164-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Easy-55-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Medium-91-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hard-18-red?style=for-the-badge"/>
 
@@ -191,3 +191,4 @@ Progress: ██████████ 100%
 | 161 | 1346.CheckIfNandItsDoubleExist | Easy | Runtime : 2 ms – Beats : 97.50%<br>Memory : 44.74 MB – Beats : 60.35% with the time complexity – O(n) and space complexity – O(n) |
 | 162 | 121.BestTimetoBuyandSellStock | Easy | Runtime : 2 ms – Beats : 41.22%<br>Memory : 94.21 MB – Beats : 91.48% with the time complexity – O(n) and space complexity – O(1) |
 | 163 | 1.TwoSum | Easy | Runtime : 2 ms – Beats : 99.22%<br>Memory : 47.16 MB – Beats : 55.67% with the time complexity – O(n) and space complexity – O(n) |
+| 164 | .SmallestIndexWithDigitSumEqualtoIndex | Easy | Runtime : 1 ms – Beats : 99.69% Memory : 45.75 MB – Beats : 24.38% with the time complexity – O(n^2) and space complexity – O(n) |
